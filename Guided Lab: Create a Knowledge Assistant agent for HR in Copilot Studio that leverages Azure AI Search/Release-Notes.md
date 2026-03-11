@@ -1,6 +1,6 @@
-# Build a Proactive Customer Care Agent in a Day
+# Guided Lab: Create a Knowledge Assistant agent for HR in Copilot Studio that leverages Azure AI Search
 
-Welcome to the **Build a Proactive Customer Care Agent in a Day** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Guided Lab: Create a Knowledge Assistant agent for HR in Copilot Studio that leverages Azure AI Search** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,9 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-03-01</summary>
+  <summary>2026-03-10</summary>
   
-## Release Date: 2026-03-01
+## Release Date: 2026-03-10
 
 ### Summary of Changes
 
@@ -37,20 +37,21 @@ N/A
 
 - The guide has also been updated to align with the latest Copilot Studio UI for improved clarity and accuracy.
 
+- Also updated the UI updates and changes in the flow while fetching AI Search serive from the Portal.
+
 ## Validations
 
 Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-03-01
+- **Testing Date**: 2026-03-10
 
 ### Testing Scope 
 
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
 ---
-
 
 
 
