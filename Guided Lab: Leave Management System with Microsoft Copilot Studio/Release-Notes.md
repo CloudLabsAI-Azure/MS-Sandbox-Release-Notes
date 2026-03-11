@@ -1,6 +1,6 @@
-# Financial Insight & Risk Advisor Agent
+# Guided Lab: Leave Management System with Microsoft Copilot Studio
 
-Welcome to the **Financial Insight & Risk Advisor Agent** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Guided Lab: Leave Management System with Microsoft Copilot Studio** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,9 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-03-01</summary>
+  <summary>2026-03-06</summary>
   
-## Release Date: 2026-03-01
+## Release Date: 2026-03-06
 
 ### Summary of Changes
 
@@ -43,7 +43,7 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-03-01
+- **Testing Date**: 2026-03-06
 
 ### Testing Scope 
 
