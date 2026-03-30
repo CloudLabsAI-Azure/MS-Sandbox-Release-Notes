@@ -31,11 +31,13 @@ N/A
 
 ### Content Changes
 
-1. Updated the lab guide to reflect the latest **UI changes and navigation updates** in the Azure portal and related services for better alignment with the current experience.
+1. The lab guide has been updated to incorporate the latest **UI changes and navigation updates** in the Azure portal and related services, aligning it with the current experience.
 
-2. Revised several steps and instructions across the labs to improve clarity and ensure the workflow matches the latest platform behavior.
+2. Multiple steps and instructions across the labs have been revised to enhance clarity and ensure the workflow reflects the latest platform behavior.
 
-3. Minor refinements were made in the instructions and task flow to ensure smoother execution of the labs and reduce potential confusion during deployment and configuration steps.
+3. Minor improvements have been made to the instructions and task flow to support smoother execution of the labs and minimize confusion during deployment and configuration.
+
+4. The GitHub repository previously provided for cloning has not been updated; however, the UI changes and instructions in the lab guide have been updated accordingly.
 
 ## Validations
 
