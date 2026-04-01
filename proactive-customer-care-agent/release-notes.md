@@ -17,6 +17,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-30</summary>
+  
+## Release Date: 2026-03-30
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations, with major content updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- The guide has also been updated to align with the latest Copilot Studio UI for improved clarity and accuracy.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-30
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
+
+<details>
   <summary>2026-03-01</summary>
   
 ## Release Date: 2026-03-01
