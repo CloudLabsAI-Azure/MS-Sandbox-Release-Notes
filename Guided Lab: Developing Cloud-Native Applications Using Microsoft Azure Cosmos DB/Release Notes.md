@@ -1,6 +1,6 @@
-# Guided Lab: Azure Cosmos DB End-to-End Implementation
+# Guided Lab: Developing Cloud-Native Applications Using Microsoft Azure Cosmos DB
 
-Welcome to the **Guided Lab: Azure Cosmos DB End-to-End Implementation** Readme.md. In this page, we document the updates and testing status for each module based on the latest testing cycle.
+Welcome to the **Guided Lab: Developing Cloud-Native Applications Using Microsoft Azure Cosmos DB** Readme.md. In this page, we document the updates and testing status for each module based on the latest testing cycle.
 
 ## Overview
 This page includes:
