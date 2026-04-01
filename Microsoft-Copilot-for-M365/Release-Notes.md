@@ -45,7 +45,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Testing Scope 
 
-- Conducted end-to-end testing of the lab environment and validated all lab guide steps. The lab guide was updated with few screenshots and minor improvements to ensure better clarity and user experience
+- Conducted end-to-end testing of the lab environment. The lab guide was updated with few screenshots and minor improvements to ensure better clarity and user experience
 
 -------------
 
