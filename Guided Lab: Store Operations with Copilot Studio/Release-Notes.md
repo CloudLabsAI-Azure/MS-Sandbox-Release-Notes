@@ -17,6 +17,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-02</summary>
+  
+## Release Date: 2026-04-02
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations, with major content updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab to use the SharePoint IT Desk site for ticket creation, removing dependency on Freshdesk.
+
+- The guide has also been updated to align with the latest Copilot Studio UI for improved clarity and accuracy.
+
+## Validations
+
+No Validations.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-02
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
+</details>
+
+<details>
   <summary>2026-03-03</summary>
   
 ## Release Date: 2026-03-03
@@ -50,7 +84,6 @@ No Validations.
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
 ---
-
-
+</details>
 
 
