@@ -16,39 +16,6 @@ This page includes:
 # Release Notes
 
 <details>
-  <summary>2026-04-10</summary>
-  
-## Release Date: 2026-04-10
-
-### Summary of Changes
-
-Performed end-to-end lab, with content updates.
-
-### Infrastructure Changes
-
-N/A
-
-### Content Changes
-
-- Implemented minor updates to enhance the user experience by refining instructions, aligning content with the latest UI changes, and ensuring consistency across the lab.
-
-## Validations
-
-Validations are good.
-
-### Testing Notes
-
-- **Testing Date**: 2026-04-10
-
-### Testing Scope 
-
-Successfully completed end-to-end lab testing. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
-
----
-
-</details>
-
-<details>
   <summary>2026-03-24</summary>
 
 ## Release Date: 2026-03-24
