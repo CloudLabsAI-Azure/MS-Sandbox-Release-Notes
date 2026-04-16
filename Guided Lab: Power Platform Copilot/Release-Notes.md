@@ -1,6 +1,6 @@
-# Guided Lab: Develop Generative AI solutions with Azure OpenAI Service
+# Guided Lab: Power Platform Copilot
 
-Welcome to the **Guided Lab: Develop Generative AI solutions with Azure OpenAI Service** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Guided Lab: Power Platform Copilot** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
