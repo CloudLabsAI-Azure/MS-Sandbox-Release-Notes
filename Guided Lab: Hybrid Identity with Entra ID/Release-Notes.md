@@ -34,6 +34,7 @@ N/A
 - Updated lab instructions to align with the latest UI changes.
 - Refreshed screenshots to reflect the updated interface.
 - Made minor content enhancements to improve clarity, consistency, and overall user experience.
+- Removed Lab-05 and Lab-07 as these labs are not supported.
 
 ## Validations
 
