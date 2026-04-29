@@ -17,9 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-04-29</summary>
+  <summary>2026-04-28</summary>
   
-## Release Date: 2026-04-29
+## Release Date: 2026-04-28
 
 ### Summary of Changes
 
@@ -41,7 +41,7 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-04-29
+- **Testing Date**: 2026-04-28
 
 ### Testing Scope 
 
