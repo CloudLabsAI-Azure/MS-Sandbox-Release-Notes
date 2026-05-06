@@ -188,8 +188,6 @@ Successfully completed end-to-end lab testing and validation. Thoroughly reviewe
 
 </details>
 
-# Release Notes
-
 <details>
   <summary>2026-05-04</summary>
 
