@@ -49,8 +49,6 @@ Validations are good.
 
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
-# Release Notes
-
 <details>
   <summary>2026-05-04</summary>
 
@@ -70,7 +68,7 @@ N/A
 ### Content Changes
 
 - Module tested and verified successfully
-- Updated the Getting Started page with latest V2 updates
+- Updated the Getting Started page with the latest V2 updates
 - Updated content wherever required
 
 ### Validations
