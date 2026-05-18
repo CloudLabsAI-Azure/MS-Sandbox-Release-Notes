@@ -17,6 +17,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-18</summary>
+  
+## Release Date: 2026-05-18
+
+### Summary of Changes
+
+Performed end-to-end lab testing using the latest updates from the Foundry portal.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+1. Tested the lab end-to-end; based on the changes in the Microsoft Foundry portal, updates have been made accordingly, and the UI has also been updated.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-18
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
+</details>
+
+<details>
   <summary>2026-04-07</summary>
   
 ## Release Date: 2026-04-07
@@ -52,3 +84,4 @@ Validations are good.
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
 ---
+</details>
