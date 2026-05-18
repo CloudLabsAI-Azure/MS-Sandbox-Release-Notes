@@ -17,6 +17,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-04</summary>
+  
+## Release Date: 2026-05-04
+
+### Summary of Changes
+
+Performed end-to-end lab testing with minor updates and fixes.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+1. Minor updates were made to ensure smoother deployment and consistency with the current setup.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
+</details>
+
+<details>
   <summary>2026-04-08</summary>
   
 ## Release Date: 2026-04-08
@@ -46,3 +78,4 @@ Validations are good.
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
 ---
+</details>
