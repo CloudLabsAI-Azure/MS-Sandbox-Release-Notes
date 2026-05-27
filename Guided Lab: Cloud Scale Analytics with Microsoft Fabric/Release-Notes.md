@@ -187,3 +187,182 @@ Validations are good.
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
 
 </details>
+
+<details>
+  <summary>2026-05-04</summary>
+
+## Release Date: 2026-05-04
+
+### Summary of Changes
+
+Performed end-to-end testing across all modules, updated the Getting Started page with the latest V2 changes, updated content wherever required, refined lab instructions, and refreshed screenshots across the lab.
+
+## Module 1: Guided Lab: Create a Fabric Workspace
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested and verified successfully
+- Updated the Getting Started page with latest V2 updates
+- Updated content wherever required
+
+### Validations
+
+Validations are successful.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 2: Guided Lab: Ingest data with a Microsoft Fabric Lakehouse
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested and verified successfully
+- Updated the Getting Started page with latest V2 updates
+- Updated content wherever required
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 3: Guided Lab: Analyze data in a data warehouse
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested and verified successfully
+- Updated the Getting Started page with latest V2 updates
+- Updated content wherever required
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 4: Guided Lab: Get started with Real-Time Intelligence in Microsoft Fabric
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested and verified successfully
+- Updated the Getting Started page with latest V2 updates
+- Updated content wherever required
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 5: Guided Lab: Use notebooks to train a model in Microsoft Fabric
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested and verified successfully
+- Updated the Getting Started page with latest V2 updates
+- Updated content wherever required
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 6: Guided Lab: Analyze data with Apache Spark
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested and verified successfully
+- Updated the Getting Started page with latest V2 updates
+- Updated content wherever required
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 7: Guided Lab: Create a Dataflow (Gen2) in Microsoft Fabric
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested and verified successfully
+- Updated the Getting Started page with the latest V2 updates
+- Updated content wherever required
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+</details>
