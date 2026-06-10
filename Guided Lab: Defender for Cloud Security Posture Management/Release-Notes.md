@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-06-09</summary>
+
+## Release Date: 2026-06-09
+
+### Summary of Changes 
+
+- Implemented **documentation quality improvements** across multiple Defender for Cloud lab modules, including refined wording for clarity and professionalism, updated recommendation filter terminology, and enhanced screenshots to align with current Azure governance options in Defender for Cloud.
+
+### Content Changes
+
+- Refined wording for clarity and professionalism throughout lab modules
+- Updated recommendation filter label from "Recommendation name" to "Recommendation category" in Module 3
+- Commented-out validation sections in Modules 2, 4, 7 for now, but needs to be mapped later.
+- Enhanced text in Modules 7 & 8 with improved readability and professional tone
+- Fixed grammar and terminology issues across all lab instructions
+
+### Screenshot Update
+
+- Updated screenshots in Module 3 and lab images to reflect current Azure Defender for Cloud interface, particularly governance options and UI elements
+- Ensured visual alignment with latest Azure portal UI
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-09
+
+### Testing Scope
+
+- Conducted end-to-end testing of all updated lab modules, including verification of instruction accuracy, screenshot alignment with current Azure UI, content clarity, and consistency across documentation. Confirmed all links and formatting are correct.
+
+-------------
+
+</details>
+
+<details>
   <summary>2026-03-06</summary>
 
 ## Release Date: 2026-03-06
