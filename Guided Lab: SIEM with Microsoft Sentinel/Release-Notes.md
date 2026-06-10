@@ -1,9 +1,26 @@
+# Guided Lab: SIEM with Microsoft Sentinel
+
+Welcome to the **Guided Lab: SIEM with Microsoft Sentinel** Release Notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, UI updates, and other relevant changes for the lab.
+
+## Overview
+
+This page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- UI changes and workflow updates
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`  
+`Email Support: cloudlabs-support@spektrasystems.com`
+
 # Release Notes
 
 <details>
-  <summary>2026-06-10</summary>
-  
-## Release Date: 2026-06-10
+  <summary>2026-06-03</summary>
+
+## Release Date: 2026-06-03
 
 ### Summary of Changes
 
@@ -34,11 +51,10 @@ All validations were tested successfully and are functioning as expected.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-06-10
+- **Testing Date**: 2026-06-03
 
 ### Testing Scope
 
 Completed testing of all 6 modules and validated the overall lab flow. Verified lab functionality, reviewed content accuracy, validated the updated UI-based instructions, and confirmed that all validations are working as expected.
 
----
 </details>
