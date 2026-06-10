@@ -40,10 +40,16 @@ N/A
 
 ### UI Updates
 
-- Updated steps to reflect the latest Microsoft Sentinel user interface.
-- Modified navigation instructions based on changes in menu locations and portal layout.
-- Updated screenshots to match the current Microsoft Sentinel experience.
-- Revised workflow guidance where UI changes affected task execution.
+### UI Updates
+
+- Updated Microsoft Sentinel onboarding and setup instructions to reflect the latest portal layout.
+- Updated navigation steps for Microsoft Defender for Cloud integration.
+- Updated workbook configuration steps to align with the latest Workbook interface.
+- Updated Analytics Rule creation and management steps based on the current Sentinel experience.
+- Updated Log Ingestion configuration steps to reflect the latest UI changes.
+- Updated KQL query and log analysis navigation paths.
+- Replaced outdated screenshots with the latest portal screenshots across all impacted modules.
+- Updated references to renamed menu options, buttons, and navigation panels where applicable.
 
 ## Validations
 
