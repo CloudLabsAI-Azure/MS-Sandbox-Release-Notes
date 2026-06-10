@@ -17,6 +17,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-29</summary>
+
+## Release Date: 2026-05-29
+
+### Summary of Changes
+
+Completed end-to-end lab testing and validation for the Guided Lab: *Build Intelligent Apps with Microsoft's Copilot Stack & Azure OpenAI – Run Miyagi App Locally*. Major content updates were made to align the lab with the latest tooling, portal experience, and platform changes.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+1. Updated the lab guide to reflect the latest **UI changes and navigation updates** in the Azure portal and related services for better alignment with the current platform experience.
+
+2. Revised multiple instructions and workflow steps across the lab to improve clarity and ensure compatibility with the latest platform behavior.
+
+3. Updated references and configuration steps related to **Azure AI Search service access and setup** to match the updated Azure portal experience.
+
+4. Replaced the deprecated **Polyglot Notebooks** extension in **Lab 01 (Page 3)** with a revised manual setup process using:
+   - Python extension (Microsoft)
+   - Jupyter extension (Microsoft)
+   - Terminal-based setup steps for configuring the **.NET Interactive C# kernel**
+
+   This update ensures the notebook environment functions correctly without dependency on the deprecated extension.
+
+5. Minor refinements were made to task sequencing, deployment guidance, and configuration instructions to improve overall lab execution and reduce potential user confusion.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-19
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation of the lab. Verified notebook setup flow, Azure AI Search configuration steps, deployment workflow, updated UI navigation, and overall lab execution experience to ensure all instructions are accurate and aligned with the latest platform updates.
+
+### Additional Notes
+
+- Lab testing completed successfully.
+
+</details>
+
+
+<details>
   <summary>2026-03-13</summary>
   
 ## Release Date: 2026-03-13

@@ -1,6 +1,6 @@
-# Leverage Microsoft 365 Copilot and Copilot Studio for Sales
+# Guided Lab: LLM-Ops-Hands-On-lab
 
-Welcome to the **Leverage Microsoft 365 Copilot and Copilot Studio for Sales** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Guided Lab: LLM-Ops-Hands-On-Lab** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -15,14 +15,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
 <details>
-  <summary>2026-05-01</summary>
+  <summary>2026-05-28</summary>
   
-## Release Date: 2026-05-01
+## Release Date: 2026-05-28
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Performed end-to-end lab testing and validations, with minor content updates.
 
 ### Infrastructure Changes
 
@@ -30,7 +31,12 @@ N/A
 
 ### Content Changes
 
-N/A
+- Updated connection names and values for consistency across the lab guide.
+
+- Corrected step references and numbering for better clarity and navigation.
+
+- Added additional guidance notes to improve user experience during task execution.
+
 
 ## Validations
 
@@ -38,7 +44,7 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-05-01
+- **Testing Date**: 2026-05-28
 
 ### Testing Scope 
 

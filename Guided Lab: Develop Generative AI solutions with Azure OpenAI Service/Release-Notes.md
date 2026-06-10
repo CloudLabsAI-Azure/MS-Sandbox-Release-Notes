@@ -50,4 +50,35 @@ Validations are good.
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
 <details>
-  <summary>2026-05-04</summary>
+  <summary>2026-05-28</summary>
+  
+## Release Date: 2026-05-28
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations, with major content updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated formatting for getting started pages across all labs for improved user guidance and onboarding experience.
+
+- Added notes and instructions related to Azure AI Foundry usage, including avoiding unnecessary Foundry creation, closing popups, and setup guidance.
+
+- Fixed typo errors and improved content consistency across the lab guides.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-28
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
