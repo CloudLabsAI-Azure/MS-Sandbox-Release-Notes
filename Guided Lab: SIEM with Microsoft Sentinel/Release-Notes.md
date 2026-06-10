@@ -1,18 +1,17 @@
 # Guided Lab: SIEM with Microsoft Sentinel
 
-Welcome to the **Guided Lab: SIEM with Microsoft Sentinel** Release Notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, UI updates, and other relevant changes for the lab.
+Welcome to the **Guided Lab: SIEM with Microsoft Sentinel** Readme.md. In this page, we document the updates and testing status for each module based on the latest testing cycle.
 
 ## Overview
+This page includes:
 
-This page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+- Testing status of each module
+- Content updates and fixes
+- UI updates and screenshot changes
+- Known issues and pending tasks
 
-- Testing dates
-- Descriptions of changes to lab infrastructure
-- Updates to content or documentation
-- UI changes and workflow updates
-- Changes to screenshots and visuals used in the lab
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`  
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
@@ -24,36 +23,83 @@ This page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Completed major lab guide updates across all modules to align with the latest Microsoft Sentinel UI and workflow changes. Updated content, screenshots, navigation instructions, and validation steps to reflect the current portal experience.
+Performed end-to-end testing across all modules and updated the Getting Started pages, content, screenshots, and navigation instructions to align with the latest Microsoft Sentinel and Microsoft Defender for Cloud experiences. Major content and UI updates were completed in Labs 2, 4, and 6.
 
-### Infrastructure Changes
-
-N/A
+## Lab 1: Setup Sentinel Environment
 
 ### Content Changes
 
-- Updated lab instructions to align with the latest Microsoft Sentinel portal experience.
-- Refreshed screenshots across the lab modules.
-- Updated navigation paths and workflow guidance based on UI changes.
-- Revised content in modules impacted by Microsoft Sentinel interface updates.
-- Incorporated identified workflow and portal experience changes throughout the lab guide.
-
-### UI Updates
-
-### UI Updates
-
-- Updated Microsoft Sentinel onboarding and setup instructions to reflect the latest portal layout.
-- Updated navigation steps for Microsoft Defender for Cloud integration.
-- Updated workbook configuration steps to align with the latest Workbook interface.
-- Updated Analytics Rule creation and management steps based on the current Sentinel experience.
-- Updated Log Ingestion configuration steps to reflect the latest UI changes.
-- Updated KQL query and log analysis navigation paths.
-- Replaced outdated screenshots with the latest portal screenshots across all impacted modules.
-- Updated references to renamed menu options, buttons, and navigation panels where applicable.
+- Module tested and verified successfully.
+- Updated the Getting Started page to align with the latest Environment tab experience.
+- Updated screenshots and instructions where required.
 
 ## Validations
 
-All validations were tested successfully and are functioning as expected.
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-02
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed and updated the Getting Started page, screenshots, and navigation instructions.
+
+## Lab 2: Deploy Microsoft Defender for Cloud
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Updated the Getting Started page.
+- Updated **Task 2: Enabling Microsoft Defender for Cloud** to align with the latest Microsoft Defender for Cloud UI in the Azure portal.
+- Updated **Task 3: Onboard Servers to Defender for Cloud Using Azure Arc** with the latest Hyper-V VM connection steps.
+- Updated Azure Arc onboarding and configuration steps to reflect major UI changes.
+- Refreshed screenshots throughout the module.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-02
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed and updated content, screenshots, navigation instructions, and workflows impacted by Microsoft Defender for Cloud and Azure Arc UI changes.
+
+## Lab 3: Configure Log Ingestion
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Updated the Getting Started page.
+- Refreshed screenshots with clearer and updated images.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-02
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed module functionality and updated screenshots where required.
+
+## Lab 4: Configure Sentinel Workbooks and Detection Rules
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Updated the Getting Started page.
+- Updated **Task 3: Enable Microsoft Defender for Cloud** to align with the latest Microsoft Defender for Cloud UI changes in the Azure portal.
+- Refreshed screenshots and updated navigation instructions.
+
+## Validations
+
+Validations are good.
 
 ### Testing Notes
 
@@ -61,6 +107,49 @@ All validations were tested successfully and are functioning as expected.
 
 ### Testing Scope
 
-Completed testing of all 6 modules and validated the overall lab flow. Verified lab functionality, reviewed content accuracy, validated the updated UI-based instructions, and confirmed that all validations are working as expected.
+Successfully completed end-to-end testing and validation. Reviewed and updated content, screenshots, and navigation instructions impacted by UI changes.
+
+## Lab 5: Analyze Logs with KQL
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Updated the Getting Started page.
+- Reviewed and validated module content and screenshots.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-03
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed content accuracy and verified module functionality.
+
+## Lab 6: Using Sentinel Training Lab
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Updated the Getting Started page.
+- Replaced the Microsoft Sentinel Training Lab Marketplace deployment approach as the Marketplace solution is no longer available due to security reasons by Microsoft.
+- Implemented a custom deployment script to provision the Sentinel Training Lab environment.
+- Added all required services and resources required for the module through the custom deployment process.
+- Updated content, screenshots, and deployment instructions accordingly.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-03
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Verified the custom deployment process, validated all required services, and confirmed that all validations are functioning as expected.
 
 </details>
