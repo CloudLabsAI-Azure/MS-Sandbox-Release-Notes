@@ -16,6 +16,40 @@ This page includes:
 # Release Notes
 
 <details>
+  <summary>2026-06-09</summary>
+
+## Release Date: 2026-06-09
+
+### Summary of Changes
+
+Successfully completed end-to-end testing and validation of the complete lab environment, including minor content updates.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated screenshots and step instructions based on the latest UI changes for a better user experience.
+
+- Corrected typo errors and improved overall wording consistency across the lab guide.
+
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-09
+
+### Testing Scope
+
+Successfully completed end-to-end testing of the complete lab, including validation, exercise flow validation, screenshot verification, content review, model update verification, and validation testing.
+
+</details>
+
+<details>
   <summary>2026-02-23</summary>
 
 ## Release Date: 2026-02-23

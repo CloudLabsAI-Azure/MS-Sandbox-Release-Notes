@@ -17,6 +17,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-08</summary>
+
+## Release Date: 2026-06-08
+
+### Summary of Changes
+
+Successfully completed end-to-end testing and validation of the complete lab environment, including minor content updates.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated screenshots and step instructions based on the latest UI changes for a better user experience.
+
+- Corrected typo errors and improved overall wording consistency across the lab guide.
+
+- Updated Getting started pages 
+
+- Changed few steps inside lab guide for Implement & use Microsoft for cloud apps based on error.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-08
+
+### Testing Scope
+
+Successfully completed end-to-end testing of the complete lab, including validation, exercise flow validation, screenshot verification, content review, model update verification, and validation testing.
+
+</details>
+
+<details>
   <summary>2026-03-26</summary>
   
 ## Release Date: 2026-03-26
