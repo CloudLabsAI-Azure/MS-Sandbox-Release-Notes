@@ -42,12 +42,9 @@ Validations are good.
 - **Testing Date**: 2026-04-09
 
 ### Testing Scope 
-
-
 Successfully completed end-to-end lab testing. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
-# Release Notes
-
+</details>
 <details>
   <summary>2026-06-10</summary>
   
