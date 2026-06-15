@@ -42,7 +42,36 @@ Validations are good.
 - **Testing Date**: 2026-04-09
 
 ### Testing Scope 
-
 Successfully completed end-to-end lab testing. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
----
+</details>
+<details>
+  <summary>2026-06-10</summary>
+  
+## Release Date: 2026-06-10
+
+### Summary of Changes
+
+Completed end-to-end lab testing and validations with minor content updates and improvements.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Performed minor content corrections and updates to improve clarity, accuracy, and consistency across the lab guide.
+
+## Validations
+
+All validations completed successfully.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-10
+
+### Testing Scope
+
+- Completed end-to-end testing and validation of all lab modules and exercises.
+
+</details>
