@@ -1,6 +1,6 @@
-# Cloud Native Apps with Azure Services
+# Cloud Native Application Protection Platform - CNAPP
 
-Welcome to the **Cloud Native Apps with Azure Services** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Cloud Native Application Protection Platform - CNAPP** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,9 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-04-09</summary>
+  <summary>2026-04-30</summary>
   
-## Release Date: 2026-04-09
+## Release Date: 2026-04-30
 
 ### Summary of Changes
 
@@ -39,39 +39,9 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-04-09
+- **Testing Date**: 2026-04-30
 
 ### Testing Scope 
 Successfully completed end-to-end lab testing. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
-
-</details>
-<details>
-  <summary>2026-06-10</summary>
-  
-## Release Date: 2026-06-10
-
-### Summary of Changes
-
-Completed end-to-end lab testing and validations with minor content updates and improvements.
-
-### Infrastructure Changes
-
-N/A
-
-### Content Changes
-
-- Performed minor content corrections and updates to improve clarity, accuracy, and consistency across the lab guide.
-
-## Validations
-
-All validations completed successfully.
-
-### Testing Notes
-
-- **Testing Date**: 2026-06-10
-
-### Testing Scope
-
-- Completed end-to-end testing and validation of all lab modules and exercises.
 
 </details>

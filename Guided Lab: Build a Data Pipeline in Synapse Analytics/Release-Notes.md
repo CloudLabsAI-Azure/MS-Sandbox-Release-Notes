@@ -17,6 +17,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-03</summary>
+  
+## Release Date: 2026-06-03
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations, with major content updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated Getting started page for correct navigation and understanding of portal.
+
+- Corrected typo errors and improved overall wording consistency across the lab guide.
+
+- Updated the lab guide instructions to improve the user experience and corrected the images and steps to ensure they match. 
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-03
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+</details>
+
+<details>
   <summary>2026-03-27</summary>
   
 ## Release Date: 2026-03-27

@@ -17,6 +17,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-27</summary>
+
+## Release Date: 2026-05-27
+
+### Summary of Changes
+
+Successfully completed end-to-end testing and validation of the complete lab environment, including minor content updates.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated screenshots and step instructions based on the latest UI changes for a better user experience.
+
+- Fixed the repeated “inject keys” error in the lab guide.
+
+- Corrected typo errors and improved overall wording consistency across the lab guide.
+
+
+## Validations
+
+The validation for Lab 03: Visualization using Power BI Report and Dashboard — Task 5 is failing with a Forbidden error.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-27
+
+### Testing Scope
+
+Successfully completed end-to-end testing of the complete lab, including validation, exercise flow validation, screenshot verification, content review, model update verification, and validation testing.
+
+</details>
+
+<details>
   <summary>2026-04-29</summary>
 
 ## Release Date: 2026-04-29
@@ -58,3 +94,4 @@ All validations are functioning successfully and no issues were identified after
 Successfully completed end-to-end testing of the complete lab, including validation, exercise flow validation, screenshot verification, content review, model update verification, and validation testing. All exercises, validations, and workflows are functioning as expected.
 
 </details>
+
