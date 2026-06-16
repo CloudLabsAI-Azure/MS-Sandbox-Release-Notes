@@ -15,6 +15,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-06-16</summary>
+  
+## Release Date: 2026-06-16
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations, with content updates.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- Replaced all references to the deprecated **Databricks Runtime 13.3 LTS** (end-of-life in August 2026) with **Databricks Runtime 17.3 LTS** across the affected lab exercises to ensure long-term compatibility and support. - Updated the **Azure Databricks to Azure Data Factory integration** guidance by explicitly documenting the required API scopes that must be selected when generating Databricks access tokens during linked service configuration. The required scopes include: - **clusters** - **workspace** - **jobs** - Modernized the Databricks file import workflow by replacing the legacy **DBFS upload method** with the newer **workspace-based import experience**, aligning the instructions with the current platform capabilities. - Refreshed UI screenshots, navigation guidance, and instructional text throughout the lab to reflect the latest Azure Databricks experience and improve clarity and consistency.
+
+## Validations
+
+Validations are good.
+
+## Testing Notes
+
+- **Testing Date**: 2026-06-16
+
+## Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest platform changes. Verified the updated Databricks runtime configuration, Azure Data Factory integration workflow, API scope requirements, and revised file import procedures.
+
+---
+</details>
+
 
 <details>
   <summary>2026-03-24</summary>
