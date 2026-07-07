@@ -153,3 +153,80 @@ Validations are good.
 Successfully completed end-to-end testing and validation. Verified the custom deployment process, validated all required services, and confirmed that all validations are functioning as expected.
 
 </details>
+
+<details>
+  <summary>2026-06-30</summary>
+
+## Release Date: 2026-06-30
+
+### Summary of Changes
+Completed end-to-end testing of the lab. Updated the lab guide across all modules with the latest content and UI changes. Reviewed the agent configuration and retained the existing flow, as the legacy agents are still supported until 31 March 2027. Updated the lab guide to address the Log Analytics Workspace creation issue caused by Soft Delete - added the required commands and step-by-step instructions to remove the soft delete configuration, ensuring successful workspace creation.
+
+## Module 1: Setup Sentinel Environment
+### Content Changes
+- Updated lab guide content and screenshots per the latest UI changes
+- Updated the lab guide to address the Log Analytics Workspace creation issue caused by Soft Delete — added the required commands and step-by-step instructions to remove the soft delete configuration, ensuring successful workspace creation
+- Module tested and verified successfully
+## Validations
+Validations are good.
+### Testing Notes
+- **Testing Date**: 2026-06-26
+### Testing Scope
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and updated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 2: Deploy Microsoft Defender for Cloud
+### Content Changes
+- Updated lab guide content and screenshots per the latest Defender portal UI
+- Module tested and verified successfully
+## Validations
+Validations are good.
+### Testing Notes
+- **Testing Date**: 2026-06-26
+### Testing Scope
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and updated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 3: Configure Log Ingestion
+### Content Changes
+- Updated lab guide content and screenshots per the latest UI changes
+- Reviewed the agent configuration and retained the existing flow, as the legacy agents are still supported until 31 March 2027
+- Module tested and verified successfully
+## Validations
+Validations are good.
+### Testing Notes
+- **Testing Date**: 2026-06-29
+### Testing Scope
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and updated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 4: Configure Sentinel Workbooks and Detection Rules
+### Content Changes
+- Updated lab guide content and screenshots per the latest Sentinel portal UI
+- Module tested and verified successfully
+## Validations
+Validations are good.
+### Testing Notes
+- **Testing Date**: 2026-06-29
+### Testing Scope
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and updated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 5: Analyze Logs with KQL
+### Content Changes
+- Updated lab guide content and screenshots per the latest Defender and Sentinel portal UI
+- Module tested and verified successfully
+## Validations
+Validations are good.
+### Testing Notes
+- **Testing Date**: 2026-06-30
+### Testing Scope
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and updated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+## Module 6: Using Sentinel Training Lab
+### Content Changes
+- Updated lab guide content and screenshots per the latest Defender and Sentinel portal UI
+- Module tested and verified successfully
+## Validations
+Validations are good.
+### Testing Notes
+- **Testing Date**: 2026-06-30
+### Testing Scope
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and updated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+</details>
