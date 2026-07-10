@@ -1,6 +1,6 @@
-# Endpoint Management with Microsoft Intune
+# Microsoft Fabric: Analytics
 
-Welcome to the **Endpoint Management with Microsoft Intune** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Microsoft Fabric: Analytics** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-01-07</summary>
+  <summary>2025-12-15</summary>
   
-## Release Date: 2026-01-07
+## Release Date: 2025-12-15
 
 ### Summary of Changes
 
-Mapped the lab content for 4 Days agenda into the lab guide. Testing is yet to be done.
+Mapped the lab content provided by Technofocus into the lab guide.
 
 ### Infrastructure Changes
 
@@ -35,18 +35,17 @@ N/A
 
 ## Validations
 
-N/A
+N/a
 
 ### Testing Notes
 
-- **Testing Date**: 2026-01-07
+- **Testing Date**: 2025-12-15
 
 ### Testing Scope 
 
 End-to-end testing has not been performed, as lab request has not yet been received.
 
 </details>
-
 
 
 
