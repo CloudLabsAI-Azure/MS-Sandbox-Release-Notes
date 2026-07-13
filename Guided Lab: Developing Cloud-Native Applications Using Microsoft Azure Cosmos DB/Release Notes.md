@@ -16,6 +16,126 @@ This page includes:
 # Release Notes
 
 <details>
+<summary>2026-07-13-</summary>
+
+## Release Date: 2026-07-13
+
+### Summary of Changes
+
+This release delivers a comprehensive documentation refresh across all Azure Cosmos DB developer labs (Labs 01–13). The updates focus on improving instructional consistency, standardizing lab structure, refreshing Azure portal screenshots, refining task guidance, correcting SDK and command references, and enhancing the overall learner experience. The content has been aligned with the latest Azure portal and current Azure Cosmos DB SDK workflow.
+
+### Infrastructure Changes
+
+* Updated .Net version in Module 8.
+* Updates are limited to lab documentation, screenshots, instructional guidance, and validation improvements.
+
+### Content Changes
+
+- **Lab 01 – Explore Azure Cosmos DB**
+
+* Standardized lab formatting and instructional structure.
+* Improved task organization and navigation.
+* Updated screenshots and validation guidance.
+
+- **Lab 02 – Migrate Existing Data Using Azure Data Factory**
+
+* Standardized lab structure and task headings.
+* Improved Azure Data Factory configuration guidance.
+* Enhanced data migration workflow.
+* Updated Azure portal screenshots.
+
+- **Lab 03 – Connect to Azure Cosmos DB for NoSQL with the SDK**
+
+* Improved SDK setup instructions.
+* Corrected NuGet package installation sequence.
+* Enhanced endpoint and authentication guidance.
+* Added Review and lab completion sections.
+
+- **Lab 04 – Configure the Azure Cosmos DB for NoSQL SDK for Offline Development**
+
+* Improved Azure Cosmos DB Emulator instructions.
+* Enhanced SDK configuration workflow.
+* Standardized documentation formatting.
+* Updated screenshots.
+
+- **Lab 05 – Create and Update Documents with the Azure Cosmos DB for NoSQL SDK**
+
+* Refined CRUD operation instructions.
+* Improved SDK configuration guidance.
+* Updated Azure portal navigation.
+* Standardized Summary, Review, and completion sections.
+
+- **Lab 06 – Execute a Query with the Azure Cosmos DB for NoSQL SDK**
+
+* Improved query implementation guidance.
+* Enhanced connection string and authentication instructions.
+* Added Review section.
+* Updated screenshots and formatting.
+
+- **Lab 07 – Review the Default Index Policy for an Azure Cosmos DB for NoSQL Container**
+
+* Improved indexing policy walkthrough.
+* Added connection string guidance during data seeding.
+* Updated Azure portal screenshots.
+* Refined validation steps.
+
+- **Lab 08 – Process Azure Cosmos DB for NoSQL Data Using Azure Functions**
+
+* Standardized lab formatting.
+* Improved Azure Functions implementation guidance.
+* Updated screenshots and task flow.
+
+- **Lab 09 – Search Data Using Azure AI Search and Azure Cosmos DB for NoSQL**
+
+* Improved Azure AI Search configuration instructions.
+* Updated task organization and screenshots.
+* Refined validation guidance.
+
+- **Lab 10 – Optimize an Azure Cosmos DB for NoSQL Container's Indexing Policy for Common Operations**
+
+* Standardized instructional flow.
+* Improved indexing optimization guidance.
+* Updated screenshots and formatting.
+
+- **Lab 11 – Use Azure Monitor to Analyze an Azure Cosmos DB for NoSQL Account**
+
+* Improved Azure Monitor walkthrough.
+* Updated monitoring and diagnostic instructions.
+* Standardized task formatting.
+
+- **Lab 12 – Create a Stored Procedure with the Azure Portal**
+
+* Improved stored procedure creation guidance.
+* Refined instructional flow and validation steps.
+* Updated screenshots.
+
+- **Lab 13 – Implement and Use User-Defined Functions with the SDK**
+
+* Improved SDK implementation guidance.
+* Enhanced code formatting and task organization.
+* Updated screenshots and completion sections.
+
+### Screenshot Updates
+
+* Refreshed Azure portal screenshots across all labs.
+* Updated Visual Studio Code and Azure Functions screenshots where applicable.
+* Updated Azure Cosmos DB, Azure Data Factory, Azure AI Search, Azure Monitor, and Emulator screenshots.
+* Standardized screenshot naming and placement throughout the documentation.
+
+### Testing Notes
+
+  - **Testing Date**: 2026-07-10
+
+### Testing Scope
+
+* Reviewed all thirteen labs for consistency.
+* Verified updated commands, SDK instructions, and navigation flow.
+* Validated screenshot references and instructional sequence.
+* Confirmed documentation alignment with the latest Azure portal experience and current Azure Cosmos DB SDK workflow.
+
+</details>
+
+<details>
   <summary>2026-03-24</summary>
 
 ## Release Date: 2026-03-24
