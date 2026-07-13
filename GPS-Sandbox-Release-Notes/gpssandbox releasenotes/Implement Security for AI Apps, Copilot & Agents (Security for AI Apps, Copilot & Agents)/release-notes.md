@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2026-07-07</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2026-07-07
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Performed end-to-end lab testing. Updated the lab guide to reflect the latest UI changes in the Microsoft Purview and Microsoft Defender portals. The instructions were refined by adding the required role assignment steps to ensure a smoother learner experience. The lab template was updated to include the necessary Microsoft 365 licenses for the lab scenarios, and selected tasks were designated as read-only or optional to align with expected service behavior and improve the overall lab experience.
 
 ### Infrastructure Changes
 
@@ -31,22 +31,23 @@ N/A
 
 ### Content Changes
 
-N/A
+- Updated the lab guide with the latest UI changes across the Microsoft Purview and Microsoft Defender portals.
+- Refined the lab instructions by adding the required role assignment steps to ensure a smoother learner experience.
+- Updated the lab template to include the required Microsoft 365 licenses for the lab scenarios.
+- Revised selected tasks as read-only or optional where appropriate to align with expected service behavior and improve the overall lab experience.
 
 ## Validations
 
-Validations are good.
+N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2026-07-07
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end testing of the lab, verifying the updated UI, role assignment workflow, revised lab instructions, and lab template configuration. The testing confirmed that the required licensing, task guidance, and overall lab workflow function as expected, ensuring a consistent learner experience.
 
----
-
-
+</details>
 
 

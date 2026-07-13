@@ -1,6 +1,6 @@
 # Knowledge Management Using MS365
 
-Welcome to the **Knowledge Management Using MS365** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Knowledge Management Using MS365** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,14 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2025-09-12</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2025-09-12
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+- Onboarded the complete lab guide with detailed instructions and supporting screenshots.
+- Incorporated the required content updates to align with the latest lab workflow and learner experience.
 
 ### Infrastructure Changes
 
@@ -35,17 +36,18 @@ N/A
 
 ## Validations
 
-Validations are good.
+N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2025-09-12
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end validation of the onboarded lab across both days. Verified the complete lab workflow and updated the lab guide based on observations identified during testing to ensure a smooth learner experience.
 
----
+</details>
+
 
 
 
