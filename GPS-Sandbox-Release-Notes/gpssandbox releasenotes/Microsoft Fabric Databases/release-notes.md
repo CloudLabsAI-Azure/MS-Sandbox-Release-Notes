@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2025-12-15</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2025-12-15
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Mapped the lab content provided by Technofocus into the lab guide.
 
 ### Infrastructure Changes
 
@@ -35,17 +35,17 @@ N/A
 
 ## Validations
 
-Validations are good.
+N/a
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2025-12-15
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+End-to-end testing has not been performed, as lab request has not yet been received.
 
----
+</details>
 
 
 

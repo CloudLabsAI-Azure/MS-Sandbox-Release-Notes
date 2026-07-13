@@ -1,6 +1,6 @@
 # Build and Extend Agents with Pro-code Copilot
 
-Welcome to the **Build and Extend Agents with Pro-code Copilot** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Build and Extend Agents with Pro-code Copilot** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2026-09-01</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2026-09-01
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Performed end-to-end lab testing and the lab content was onboarded with the required instructions and updated screenshots to align with the latest experience. Inline validations were implemented to support learner verification, a cost estimation was prepared for the lab, and the event configuration calendar was created.
 
 ### Infrastructure Changes
 
@@ -39,13 +39,13 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2026-09-01
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end labonboarding  and including content creation, screenshot updates, validation implementation, cost estimation, and event configuration setup. End-to-end testing will be performed during the validation phase.
 
----
+</details>
 
 
 

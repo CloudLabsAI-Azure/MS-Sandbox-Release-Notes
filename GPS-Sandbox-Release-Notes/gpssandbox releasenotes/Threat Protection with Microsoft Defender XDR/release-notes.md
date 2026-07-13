@@ -1,6 +1,6 @@
 # Threat Protection with Microsoft Defender XDR
 
-Welcome to the **Threat Protection with Microsoft Defender XDR** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Threat Protection with Microsoft Defender XDR** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2025-07-29</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2025-07-29
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+End-to-end testing of the lab was successfully completed, and the overall lab workflow was validated.
 
 ### Infrastructure Changes
 
@@ -39,13 +39,13 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2025-07-29
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end testing of the lab. During validation, it was observed that the SaaS application connector onboarding process may require additional time before completion due to service propagation. Apart from this expected behavior, the overall lab workflow functioned as expected.
 
----
+<details>
 
 
 

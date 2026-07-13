@@ -1,6 +1,6 @@
 # Build and Extend Agents with Copilot Studio
 
-Welcome to the **Build and Extend Agents with Copilot Studio** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Build and Extend Agents with Copilot Studio** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2026-03-26</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2026-03-26
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+The lab guide was updated to align with the latest Copilot Studio UI changes, including revisions to the lab flow, improved instructions, and enhanced screenshots across the affected labs. The CloudLabs template was updated to resolve VM shadow issues, and the PowerShell initialization script was enhanced to update the Microsoft Edge browser, ensuring compatibility with the latest Copilot experience.
 
 ### Infrastructure Changes
 
@@ -39,13 +39,13 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2026-03-26
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end testing across all three days, validating the updated lab flow, documentation, screenshots, and infrastructure changes. The testing confirmed that the VM template updates, Edge browser initialization, and overall lab workflow function as expected, providing a consistent learner experience.
 
----
+</details>
 
 
 

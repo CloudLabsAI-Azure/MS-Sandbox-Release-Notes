@@ -1,6 +1,6 @@
 # Accelerate Agentic AI for Frontier with Capstone
 
-Welcome to the **Accelerate Agentic AI for Frontier with Capstone** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Accelerate Agentic AI for Frontier with Capstone** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2026-07-01</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2026-07-01
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Performed end-to-end lab testing and lab guide was updated to reflect the latest UI changes and GPT model updates. The challenge guide code was revised by replacing the deprecated GPT-4.1 model with GPT-5.2 to align with the latest supported implementation..
 
 ### Infrastructure Changes
 
@@ -35,17 +35,17 @@ N/A
 
 ## Validations
 
-Validations are good.
+N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2026-07-01
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+End-to-end testing was completed for the updated lab guide and challenge guide. The updated screenshots, code changes, and GPT-5.2 implementation were validated to ensure the lab workflow functions as expected and provides a consistent learner experience.
 
----
+</details>
 
 
 
