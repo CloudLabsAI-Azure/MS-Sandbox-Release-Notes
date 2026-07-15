@@ -1,6 +1,6 @@
 # Protect cloud, AI Platform and Apps by implementing Defender for Cloud
 
-Welcome to the **Protect cloud, AI Platform and Apps by implementing Defender for Cloud** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Protect cloud, AI Platform and Apps by implementing Defender for Cloud** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2026-07-10</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2026-07-10
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Updated the lab guide with the required screenshots and refined instructions to improve clarity and the overall learner experience.
 
 ### Infrastructure Changes
 
@@ -39,13 +39,13 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2026-07-10
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end testing of the lab and verified that the updated content and overall lab workflow function as expected. 
 
----
+</details>
 
 
 

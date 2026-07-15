@@ -1,6 +1,6 @@
 # AI-powered Analytics with Microsoft Fabric
 
-Welcome to the **AI-powered Analytics with Microsoft Fabric** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **AI-powered Analytics with Microsoft Fabric** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,16 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2025-07-24</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2025-07-24
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+- Onboarded the lab content for Use Cases 01 through 06 based on the latest agenda.
+- Created and updated the lab guide with detailed instructions, refreshed screenshots, and an enhanced Getting Started page featuring the latest architecture diagram and component overview.
+- Updated the lab infrastructure and automation to align with the latest requirements.
+- Enhanced the lab initialization process to streamline the setup experience.
 
 ### Infrastructure Changes
 
@@ -31,21 +34,32 @@ N/A
 
 ### Content Changes
 
-N/A
+#### Day 1
+
+- Onboarded the content for Use Cases 01, 02, and 03 with detailed instructions and updated screenshots.
+- Updated the lab infrastructure to align with the latest Day 1 agenda.
+
+#### Day 2
+
+- Onboarded the content for Use Cases 04, 05, and 06.
+- Updated the Getting Started page with a new architecture diagram and component overview.
+- Created the lab guide with comprehensive instructions and supporting screenshots.
+- Updated the lab infrastructure to support the latest Day 2 requirements.
+- Updated the lab infrastructure and automation to align with the latest requirements.
 
 ## Validations
 
-Validations are good.
+N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2025-07-24
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+The lab onboarding and content updates have been completed. End-to-end testing has not been performed, as lab request has not yet been received.
 
----
+</details>
 
 
 

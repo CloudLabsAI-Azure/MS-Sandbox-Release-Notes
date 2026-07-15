@@ -1,6 +1,6 @@
 # Microsoft Fabric: Advanced Real-Time Intelligence
 
-Welcome to the **Microsoft Fabric: Advanced Real-Time Intelligence** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Microsoft Fabric: Advanced Real-Time Intelligence** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2025-07-01</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2025-07-01
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Successfully onboarded both days Day 01 and Day 02 from scratch, including the creation of the required content and implementation of automation workflows to enhance efficiency. The lab environment was configured, and cost estimation was prepared and documented to support project planning.
 
 ### Infrastructure Changes
 
@@ -35,17 +35,17 @@ N/A
 
 ## Validations
 
-Validations are good.
+Vaidations are Implemented for both Days.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2025-07-01
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+The lab environment was validated following the onboarding activities, confirming that the content, automation workflows, and overall lab setup function as expected. End-to-end testing was successfully completed to ensure the lab is ready for delivery.
 
----
+</details>
 
 
 

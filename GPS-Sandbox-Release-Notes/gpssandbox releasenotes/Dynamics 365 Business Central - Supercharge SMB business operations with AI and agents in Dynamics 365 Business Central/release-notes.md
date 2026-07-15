@@ -1,6 +1,6 @@
 # Dynamics 365 Business Central - Supercharge SMB business operations with AI and agents in Dynamics 365 Business Central
 
-Welcome to the **Dynamics 365 Business Central - Supercharge SMB business operations with AI and agents in Dynamics 365 Business Central** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Dynamics 365 Business Central - Supercharge SMB business operations with AI and agents in Dynamics 365 Business Central** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2026-06-05</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2026-06-05
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Performed end-to-end lab testing and the required updates were incorporated to ensure a smooth and consistent learner experience
 
 ### Infrastructure Changes
 
@@ -39,13 +39,13 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2026-06-05
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end testing across both days. Verified that the identified issue was resolved and confirmed that the overall lab workflow functions as expected without any remaining blockers.
 
----
+</details>
 
 
 

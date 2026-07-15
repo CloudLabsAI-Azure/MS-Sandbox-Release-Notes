@@ -1,6 +1,6 @@
 # Plan and deploy Modern SOC with Microsoft Sentinel
 
-Welcome to the **Plan and deploy Modern SOC with Microsoft Sentinel** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Plan and deploy Modern SOC with Microsoft Sentinel** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2026-04-29</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2026-04-29
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Performed end-to-end lab testing and updated the lab guide with enhanced screenshots to align with the latest user experience.
 
 ### Infrastructure Changes
 
@@ -35,17 +35,17 @@ N/A
 
 ## Validations
 
-Validations are good.
+N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2026-04-29
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end testing across both days. Verified the complete lab workflow and confirmed that the lab functions as expected without any blockers.
 
----
+</details>
 
 
 

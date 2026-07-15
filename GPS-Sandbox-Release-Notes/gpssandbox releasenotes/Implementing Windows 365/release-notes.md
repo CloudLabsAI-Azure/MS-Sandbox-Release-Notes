@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-02-22</summary>
+  <summary>2025-07-07</summary>
   
-## Release Date: 2026-02-22
+## Release Date: 2025-07-07
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with no major content updates.
+Updated the lab guide based on customer feedback to improve the overall learner experience.
 
 ### Infrastructure Changes
 
@@ -39,13 +39,13 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-02-22
+- **Testing Date**: 2025-07-07
 
 ### Testing Scope 
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end testing of the lab with the updated lab guide. Verified that all validations completed successfully and confirmed the overall lab workflow functions as expected.
 
----
+</details>
 
 
 
