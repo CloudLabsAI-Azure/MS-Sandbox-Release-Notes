@@ -15,6 +15,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-07-15</summary>
+
+## Release Date: 2026-07-15
+
+### Summary of Changes
+
+Language and clarity pass across the lab guide, along with codebase updates to support the new Foundry portal, Foundry API endpoints, and GPT 5.4 model as well as the Build '26 updates including the codebase update.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+* Expanded the overview, objectives, task intros, and summaries across the getting-started page and both exercises to more clearly describe what the reader builds and why.
+
+* Updated Exercise 1 to reflect the resource-creation, project-setup, and model-deployment flow in the new Foundry portal, and corrected step numbering and callout inconsistencies.
+
+* Updated Exercise 2 wording for the SQL Query Writing Assistant and Data Analysis Assistant walkthrough, including the token-per-minute rate-limit note.
+
+### Codebase Changes
+
+* Updated the application configuration to use the new Foundry API endpoint format (`.../openai/v1`) and the new GPT model deployment name.
+
+* Aligned the guide's `secrets.env` and model-deployment instructions with the updated endpoint and GPT model.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-14
+
+### Testing Scope
+
+Reviewed and validated all lab instructions end to end, ensuring they are accurate, up to date, and aligned with the new Foundry portal, Foundry API endpoints, and GPT model.
+
+</details>
 
 <details>
   <summary>2026-06-25</summary>
