@@ -17,6 +17,57 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-15</summary>
+  
+## Release Date: 2026-07-15
+
+### Summary of Changes
+
+Updated the lab guides by adding the missing screenshots and refining the instructions for improved clarity. Additional configuration steps were included to assign the required roles, including Storage Blob Reader for the search service managed identity and Foundry User for the ODL user, ensuring the lab aligns with the latest workflow and prerequisites.
+
+## Lab 1: Create and Deploy a Document Intelligence Custom Model
+
+### Content Changes
+
+- Added the missing screenshots and updated the existing ones to match the latest UI.
+- Added steps to assign the Storage Blob Reader role to the search service managed identity
+- Cleaned up lab instructions for clarity and fixed wording/formatting issues
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-15
+
+### Testing Scope
+
+Completed end-to-end testing of the lab and validated all lab guide steps against the updated role assignment.
+
+## Lab 2: Use Azure OpenAI with your own data
+
+### Content Changes
+- Added the missing screenshots and updated the existing ones to match the latest UI.
+- Added steps to assign the Storage Blob Reader role to the search service managed identity
+- Added steps to assign the Foundry User role to ODL user for work with the agent
+- Cleaned up lab instructions for clarity and fixed wording/formatting issues
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-15
+
+### Testing Scope
+
+Completed end-to-end testing of the lab and validated all lab guide steps against the updated role assignment.
+
+</details>
+
+<details>
   <summary>2026-05-29</summary>
   
 ## Release Date: 2026-05-29
@@ -51,4 +102,4 @@ Validations are good.
 
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
----
+</details>
