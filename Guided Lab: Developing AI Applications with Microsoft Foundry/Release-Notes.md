@@ -17,6 +17,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-01</summary>
+
+## Release Date: 2026-07-01
+
+### Summary of Changes 
+
+-  Tested the lab end-to-end following the GPT model updates. Updated the lab guide instructions and revised the screenshots wherever required.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated the lab guide instructions to reflect the latest GPT model updates and align with the current lab flow.
+
+### Screenshot Update
+
+- Revised screenshots wherever required to match the updated instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-01
+
+### Testing Scope 
+
+- Conducted end-to-end testing of the lab environment following the GPT model updates. Updated the lab guide instructions and revised the screenshots wherever required.
+
+</details>
+
+<details>
   <summary>2026-04-10</summary>
   
 ## Release Date: 2026-04-10
