@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-26</summary>
+  
+## Release Date: 2026-06-26
+
+### Summary of Changes
+
+Updated the lab guide to reflect the latest Azure portal experience by refreshing screenshots, refining instructions, updating terminology, and improving validation steps for a more accurate and consistent user experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- The guide has also been revised to align with the latest platform UI, improving overall clarity, accuracy, and the learner experience.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-26
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
+
+</details>
+
+<details>
   <summary>2026-05-28</summary>
   
 ## Release Date: 2026-05-28

@@ -17,6 +17,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-20</summary>
+
+## Release Date: 2026-07-20
+
+### Summary of Changes
+
+Updated the lab to align with the latest UI, refreshed the instructions for clarity, and updated the code samples to use the latest supported Azure OpenAI models.
+
+### Infrastructure Changes
+
+Updated the lab configuration to use GPT-5.4 for chat completions and text-embedding-3-small for embeddings, replacing the deprecated GPT-4o and text-embedding-ada-002 models.
+
+### Content Changes
+
+- Updated lab instructions to reflect the latest UI changes.
+- Revised code blocks throughout the lab to use GPT-5.4 and text-embedding-3-small.
+- Updated model names and configuration examples to replace deprecated models.
+- Improved instructions for better clarity and consistency with the current experience.
+
+### Screenshot Updates
+
+- Updated screenshots throughout the lab to match the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-20
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab after updating the UI, instructions, screenshots, and code samples. All validations passed successfully using GPT-5.4 and text-embedding-3-small.
+
+---
+</details>
+
+<details>
   <summary>2026-05-20</summary>
 
 ## Release Date: 2026-05-20

@@ -17,6 +17,35 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-23</summary>
+
+## Release Date: 2026-07-23
+
+### Summary of Changes 
+
+-  Updated the lab guide for improved clarity and accuracy, and as per build 2026, enhancing the overall user experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated UI images throughout the lab and revised the instructions to align with the new UI.
+
+- Added two new exercises based on Microsoft Build 2026 updates.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-07-23
+
+### Testing Scope 
+
+- Conducted end-to-end testing of the lab environment. The lab guide was updated with new screenshots and major improvements to ensure better clarity and user experience
+
+-------------
+
+<details>
   <summary>2026-03-11</summary>
 
 ## Release Date: 2026-03-11

@@ -17,6 +17,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-03</summary>
+
+## Release Date: 2026-07-03
+
+### Summary of Changes 
+
+-  Updated the Microsoft Defender for Endpoint lab guides with the latest UI changes, refreshed screenshots, refined instructions, and fixed validation issues to improve the overall lab experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated lab instructions to reflect the latest Microsoft Defender portal experience.
+- Refined guidance and notes to improve clarity and usability.
+- Added missing validation steps and corrected existing validation issues.
+
+
+### Screenshot Update
+
+- Replaced outdated screenshots throughout the labs with the latest Microsoft Defender portal UI.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-07-03
+
+### Testing Scope 
+
+- Completed end-to-end testing of the updated labs to verify the latest instructions, screenshots, and validations. Confirmed that all lab scenarios align with the current Microsoft Defender portal experience.
+
+</details>
+
+--------
+
+<details>
   <summary>2026-05-14</summary>
 
 ## Release Date: 2026-05-14
