@@ -17,6 +17,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-13</summary>
+
+## Release Date: 2026-07-13
+
+### Summary of Changes
+
+Migrated the lab to the new Microsoft Foundry portal and incorporated Build 2026 enhancements. Performed end-to-end lab testing, validation, and updated the lab content to align with the latest platform experience.
+
+### Infrastructure Changes
+
+- Migrated the lab from the legacy Foundry experience to the new Microsoft Foundry portal.
+- Updated the multi-agent architecture to use Agent Framework 1.0 with explicit agent handoff topology.
+- Added an ACS governance manifest to enforce agent communication boundaries.
+
+### Content Changes
+
+- Updated **Exercise 3** to rebuild multi-agent collaboration using Agent Framework 1.0 Multi-Agent Handoff with explicit topology (Build 2026).
+- Added an ACS governance manifest to constrain agent communication boundaries.
+- Updated **Exercise 5** to use the ASSERT evaluation framework as the measurement layer.
+- Updated all screenshots to reflect the latest Microsoft Foundry portal.
+- Revised the lab guide to align with the latest platform UI, improving clarity, accuracy, and the overall learner experience.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-13
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Verified the migration to the new Microsoft Foundry portal, validated the Agent Framework 1.0 multi-agent collaboration workflow, confirmed ACS governance enforcement and ASSERT based evaluation, and thoroughly reviewed all lab instructions to ensure they are accurate, up to date, and aligned with the latest platform changes.
+
+---
+
+</details>
+
+<details>
   <summary>2026-03-30</summary>
   
 ## Release Date: 2026-03-30
