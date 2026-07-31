@@ -17,25 +17,28 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-05-27</summary>
-  
-## Release Date: 2026-05-27
+  <summary>2026-07-01</summary>
+
+## Release Date: 2026-07-01
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and validations, with minor content updates.
+Migrated the lab to the new Microsoft Foundry portal and incorporated Build 2026 enhancements. Performed end-to-end lab testing, validation, and updated the lab content to align with the latest platform experience.
 
 ### Infrastructure Changes
 
-N/A
+- Migrated the lab from the legacy Foundry experience to the new Microsoft Foundry portal.
+- Added support for deploying the RAG application as a production endpoint using the Rayfin managed backend.
+- Configured Rayfin access controls and exposed a REST API consumable by front-end applications.
 
 ### Content Changes
 
-- The lab content has been updated to replace outdated information, and all screenshots have been refreshed to reflect the latest user interface.
-
-- Updated the GPT models used in the lab as per the latest supported models.
-
-- The guide has also been revised to align with the latest platform UI, improving overall clarity, accuracy, and the learner experience.
+- Added **Module 4** to deploy the RAG application as a production endpoint using the Rayfin managed backend (Build 2026).
+- Configured Rayfin access controls and exposed a REST API consumable by front-end applications.
+- Updated **Exercise 3** to use the ASSERT evaluation framework instead of manual prompt inspection.
+- Added **Optional Module 5** to connect Web IQ alongside Foundry IQ for hybrid enterprise and web grounding.
+- Updated all screenshots to reflect the new Microsoft Foundry portal.
+- Revised the lab guide to align with the latest platform UI, improving clarity, accuracy, and the overall learner experience.
 
 ## Validations
 
@@ -43,11 +46,11 @@ Validations are good.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-05-27
+- **Testing Date**: 2026-07-01
 
-### Testing Scope 
+### Testing Scope
 
-Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+Successfully completed end-to-end lab testing and validation. Verified the migration to the new Microsoft Foundry portal, validated all Build 2026 enhancements, confirmed the Rayfin production deployment workflow, ASSERT evaluation framework, and hybrid Foundry IQ and Web IQ grounding scenario. Thoroughly reviewed and validated all lab instructions to ensure they are accurate, up to date, and aligned with the latest platform changes.
 
 ---
 
