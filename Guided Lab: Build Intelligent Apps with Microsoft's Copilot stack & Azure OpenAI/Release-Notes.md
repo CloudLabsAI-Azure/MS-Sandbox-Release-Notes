@@ -17,6 +17,58 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-05</summary>
+
+## Release Date: 2026-08-05
+
+### Summary of Changes
+
+Completed end-to-end testing and validation for the guided lab "Build Intelligent Apps with Microsoft's Copilot Stack & Azure OpenAI". The lab content, screenshots, and learner onboarding were refreshed and re-aligned with the current Microsoft Foundry experience and CloudLabs environment to ensure a seamless end-to-end learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+1. Revamped the Getting Started experience with a clearer lab overview, architecture diagram, objectives, prerequisites, and improved learner onboarding instructions.
+2. Updated CloudLabs environment guidance to reflect current UI and workflows, including VM access, environment details, split-window usage, VM lifecycle (Start/Stop/Restart), zoom controls, and VM resizing.
+3. Updated Azure sign-in instructions and refreshed screenshots to match the current Azure Portal experience.
+4. Replaced legacy Azure OpenAI Studio references with Microsoft Foundry navigation and updated learner instructions accordingly.
+5. Updated model deployment verification steps to reflect the latest deployment naming and Azure AI Foundry navigation.
+6. Refreshed Azure resource verification steps for Azure AI, Azure AI Search, Cosmos DB, and Storage to improve clarity and match current portal UI.
+7. Updated the master document configuration to point all lab markdown files to the guided-lab branch.
+8. Synced the GitHub guided-lab branch with the latest lab guide, supporting assets, screenshots, and master document changes so the branch reflects the validated lab version.
+9. Improved overall structure, wording, formatting, and instructional flow to enhance readability and reduce learner confusion.
+
+### Validations
+
+Validations completed successfully; the lab content and walkthroughs were verified against the current Azure Portal and CloudLabs UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-05
+- End-to-end execution and verification of learner workflows were performed during validation.
+
+### Testing Scope
+
+Successfully validated:
+- Getting Started experience and onboarding flow
+- Azure Portal sign-in and navigation
+- Microsoft Foundry (replacing Azure OpenAI Studio) navigation and model deployment verification
+- Azure resource verification steps for OpenAI/Azure AI, Azure AI Search, Cosmos DB, and Storage
+- CloudLabs environment workflows, VM controls, and UI elements
+- All updated screenshots and supporting assets
+
+### Additional Notes
+
+- All updated screenshots were verified against the live Azure Portal and CloudLabs UI.
+- Content and assets have been committed to the guided-lab branch in GitHub.
+- No infrastructure changes were required for this release.
+
+</details>
+
+<details>
   <summary>2026-07-09</summary>
 
 ## Release Date: 2026-07-09
