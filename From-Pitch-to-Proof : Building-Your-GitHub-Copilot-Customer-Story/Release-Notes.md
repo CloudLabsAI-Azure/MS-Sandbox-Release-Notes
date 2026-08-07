@@ -18,20 +18,28 @@ This page contains detailed notes about the latest updates and modifications mad
   
   <summary>2026-08-06 - Onboarded</summary>
 
-## Infrastructure Changes
+### Summary of Changes
 
-NA
+Performed end-to-end lab testing, with content updates.
 
-## Content Changes
+### Infrastructure Changes
 
-NA
-  
-## Screenshot Updates
+N/A
 
-NA
+### Content Changes
 
-## Testing Notes
+N/A
 
-NA
+## Validations
+
+No Validations as it only has prompting in copilot studio.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-06
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
 </details>
