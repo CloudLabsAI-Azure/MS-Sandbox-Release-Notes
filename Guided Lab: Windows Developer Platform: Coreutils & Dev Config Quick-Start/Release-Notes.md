@@ -52,7 +52,7 @@ New lab onboarded. Built and end-to-end tested the full lab across 2 modules and
 
 ### Validation
 
-- No validations are required for this lab.
+- Validation is implemented and tested successfully for EXE-1
 
 ### Testing Notes
 
@@ -60,6 +60,6 @@ New lab onboarded. Built and end-to-end tested the full lab across 2 modules and
 
 ### Testing Scope
 
-Performed live, hands-on end-to-end testing of every exercise on a real lab VM, including real package installs, real configuration application, real GitHub Copilot CLI sign-in, and real error reproduction/fixes (WinGet client version skew, missing NuGet source, configuration feature disabled by default, agent proposing an outdated project format). Confirmed the agent-built WinUI 3 application compiles, runs, and satisfies all documented success criteria. No validations are required for this lab.
+Performed live, hands-on end-to-end testing of every exercise on a real lab VM, including real package installs, real configuration application, real GitHub Copilot CLI sign-in, and real error reproduction/fixes (WinGet client version skew, missing NuGet source, configuration feature disabled by default, agent proposing an outdated project format). Confirmed the agent-built WinUI 3 application compiles, runs, and satisfies all documented success criteria. Validation is implemented and tested successfully 
 
 </details>
