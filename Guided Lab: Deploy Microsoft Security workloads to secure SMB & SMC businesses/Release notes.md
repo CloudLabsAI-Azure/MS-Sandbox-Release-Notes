@@ -45,7 +45,7 @@ NA
 
 ### Testing Scope 
 
-Completed end-to-end testing of the lab after updating the UI, instructions, screenshots, and prompts.
+Completed end-to-end testing of the lab after updating the UI, instructions, screenshots.
 
 ---
 </details>
