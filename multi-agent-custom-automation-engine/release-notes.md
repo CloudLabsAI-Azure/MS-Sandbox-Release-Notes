@@ -17,6 +17,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-12</summary>
+  
+## Release Date: 2026-08-12
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations, with no major content updates.
+
+### Infrastructure Changes
+
+Updated the GPT model from GPT-4.1-mini to GPT-5.4-mini.
+
+### Content Changes
+
+- Updated the GPT model from GPT-4.1-mini to GPT-5.4-mini.
+
+- Fixed the typos and grammatical errors identified during lab testing.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
+
+<details>
   <summary>2026-02-23</summary>
   
 ## Release Date: 2026-02-23
