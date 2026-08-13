@@ -17,13 +17,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-07-01</summary>
+  <summary>2026-07-22</summary>
   
-## Release Date: 2026-07-01
+## Release Date: 2026-07-22
 
 ### Summary of Changes
 
-Performed end-to-end lab testing and lab guide was updated to reflect the latest UI changes and GPT model updates. The challenge guide code was revised by replacing the deprecated GPT-4.1 model with GPT-5.2 to align with the latest supported implementation..
+Performed end-to-end lab testing and updated the lab guide to reflect the latest UI changes. Changed the Azure AI Search SKU from Standard to Basic, captured and validated the policy, and tested the lab using the same. Fixed the issue with the Orchestration Agent not providing responses. The lab was successfully tested and is ready to proceed.
 
 ### Infrastructure Changes
 
@@ -39,11 +39,11 @@ N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-07-01
+- **Testing Date**: 2026-07-22
 
 ### Testing Scope 
 
-End-to-end testing was completed for the updated lab guide and challenge guide. The updated screenshots, code changes, and GPT-5.2 implementation were validated to ensure the lab workflow functions as expected and provides a consistent learner experience.
+Tested the lab and updated the lab guide based on the latest UI changes. Changed the Azure AI Search SKU from Standard to Basic, captured the policy, and tested the lab using the same. Also fixed the issue where the Orchestration Agent was not providing responses. The lab has been tested successfully, and we are good to proceed with it.
 
 </details>
 
