@@ -75,3 +75,132 @@ All validations completed successfully.
 - Completed end-to-end testing and validation of all lab modules and exercises.
 
 </details>
+<details>
+  <summary>2026-08-12</summary>
+
+## Release Date: 2026-08-12
+
+### Summary of Changes
+
+Performed end-to-end testing across all modules, updated the lab guides with the latest UI and content changes, and refined instructions based on the current portal experience.
+
+## Module 1: Guided Lab: Deploy Azure Kubernetes Cluster
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested end-to-end and verified successfully.
+- No issues were identified during testing.
+- Updated the lab guide with the required UI changes.
+
+### Validations
+
+Validations are successful.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Reviewed the lab instructions and updated the guide to align with the latest UI and workflow changes.
+
+## Module 2: Guided Lab: Configure and Secure ACR & AKS
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested end-to-end and completed successfully.
+- No issues were identified during testing.
+- Updated the lab guide with the latest UI changes.
+
+### Validations
+
+Validations are successful.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Updated the lab guide to reflect the latest UI and workflow changes.
+
+## Module 3: Guided Lab: Build Docker Images for the Application
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Module tested end-to-end successfully.
+- Updated the lab guide as required based on the latest UI and content changes.
+
+### Validations
+
+Validations are successful.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Reviewed and updated the lab guide to ensure the instructions align with the current portal experience.
+
+## Module 4: Guided Lab: Migrate MongoDB to Cosmos DB using Azure Database Migration
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab guide with the latest UI and content changes.
+- Removed the validation as it is no longer required due to the latest UI changes.
+- Validation removal was confirmed with Riya.
+
+### Validations
+
+Validation of Task 6 removed based on the latest UI changes [Auto scale on Azure Cosmos DB] .
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope
+
+Reviewed and updated the lab flow based on the latest UI changes and confirmed that the existing validation is no longer required.
+
+## Module 5: Guided Lab: Cloud Native Apps with Azure Services
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab guide with the latest UI and content changes.
+- Completed end-to-end testing of the module.
+- Verified that the lab is working as expected.
+
+### Validations
+
+Validations are successful.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope
+
+Successfully completed end-to-end lab testing and validation. Reviewed the lab instructions and updated the content to align with the latest UI and workflow changes.
+
+</details>
