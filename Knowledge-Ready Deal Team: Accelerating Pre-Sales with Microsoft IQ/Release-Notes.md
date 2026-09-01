@@ -31,7 +31,7 @@ N/A
 
 ### Content Changes
 
-Onboarded the content as per the shared agenda, with six challenges designed to progressively build on one another, and completed the feasibility check.
+Onboarded the content as per the shared agenda, with five challenges designed to progressively build on one another, and completed the feasibility check.
 
 ### Screenshot Changes
 
