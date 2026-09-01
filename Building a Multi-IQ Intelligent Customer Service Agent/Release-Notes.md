@@ -23,7 +23,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Onboarded this lab as a new 6 hour, Hack in a Day on which learners build a single Copilot Studio agent that combines governed knowledge grounding, live business-data retrieval, and expert escalation routing into one orchestrated, multi-hop conversation serving both pre-sales and customer service teams. Using Microsoft Entra ID, Microsoft Foundry, SharePoint, Power BI/Microsoft Fabric, Azure Functions, Microsoft Graph, Microsoft Copilot Studio, and Microsoft Teams, you design an end-to-end solution that answers product and policy questions with citations, grounds business facts in live customer data, and routes complex questions to the right internal expert.
+In this hack, the learners will build a multi-IQ intelligent customer service agent that unifies grounded policy knowledge, real-time business context, and expert escalation routing into a single, orchestrated experience for customer service teams. Leveraging Microsoft Foundry, Azure AI Search, Azure Functions, and Microsoft Copilot Studio (with Dataverse and Power Automate), plus mock APIs simulating Fabric IQ, Work IQ, and Agent 365-style behaviors, you'll design an end-to-end solution that delivers evidence-backed answers to policy questions, enriches responses with operational context, and intelligently escalates issues to the right internal experts.
 
 ### Infrastructure Changes
 
@@ -31,7 +31,7 @@ N/A
 
 ### Content Changes
 
-Onboarded the content as per the shared agenda, with five challenges designed to progressively build on one another, and completed the feasibility check.
+Onboarded the content as per the shared agenda, with six challenges designed to progressively build on one another, and completed the feasibility check.
 
 ### Screenshot Changes
 
@@ -43,7 +43,7 @@ No validations have been authored for this lab.
 
 ### Testing Notes
 
-- **Testing Date**: 31-08-2026
+- **Testing Date**: 21-08-2026
 
 ### Testing Scope
 
