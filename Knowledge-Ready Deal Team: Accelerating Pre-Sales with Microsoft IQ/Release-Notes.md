@@ -23,7 +23,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Onboarded this lab as a new 6 hour, Hack in a Day on Microsoft Azure and Microsoft Entra ID. Learners act as Cloud Security Engineers at fictional Zava Financial Services, where flat networks, public service exposure, and location-based access create security risks. Across four challenges, they build network segmentation, secure Azure Key Vault with private endpoints, and implement Conditional Access policies for MFA and location-based access.
+Onboarded this lab as a new 6 hour, Hack in a Day on which learners build a single Copilot Studio agent that combines governed knowledge grounding, live business-data retrieval, and expert escalation routing into one orchestrated, multi-hop conversation serving both pre-sales and customer service teams. Using Microsoft Entra ID, Microsoft Foundry, SharePoint, Power BI/Microsoft Fabric, Azure Functions, Microsoft Graph, Microsoft Copilot Studio, and Microsoft Teams, you design an end-to-end solution that answers product and policy questions with citations, grounds business facts in live customer data, and routes complex questions to the right internal expert.
 
 ### Infrastructure Changes
 
