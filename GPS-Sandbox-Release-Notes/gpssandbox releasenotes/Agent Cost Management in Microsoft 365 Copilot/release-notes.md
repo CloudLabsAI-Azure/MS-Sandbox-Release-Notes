@@ -13,26 +13,33 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Release Notes
 
-### 2026-08-28
+<details>
+  <summary>2026-08-28</summary>
 
-**Release Date:** 2026-08-28
+## Release Date: 2026-08-28
 
-#### Summary of Changes
+### Summary of Changes
+
 Performed end-to-end lab testing, with no major content updates.
 
-#### Infrastructure Changes
+### Infrastructure Changes
+
 N/A
 
-#### Content Changes
+### Content Changes
+
 N/A
 
-#### Validations
+## Validations
+
 N/A
 
-#### Testing Notes
+### Testing Notes
 
-**Testing Date:** 2026-08-28
+- **Testing Date**: 2026-08-28
 
-**Testing Scope**
+### Testing Scope 
 
-Successfully completed end-to-end lab testing. Thoroughly reviewed all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+Successfully completed end-to-end lab testing. Thoroughly reviewed all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
