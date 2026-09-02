@@ -1,6 +1,6 @@
-# Agent Cost Management in Microsoft 365 Copilot - Release Notes
+# Agent Cost Management in Microsoft 365 Copilot
 
-Welcome to the Agent Cost Management in Microsoft 365 Copilot Release Notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab. This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+Welcome to the **Agent Cost Management in Microsoft 365 Copilot** Release Notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab. This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
 
 - Testing dates
 - Descriptions of changes to lab infrastructure
@@ -13,9 +13,9 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Release Notes
 
-### 2026-09-02
+### 2026-08-28
 
-**Release Date:** 2026-09-02
+**Release Date:** 2026-08-28
 
 #### Summary of Changes
 Performed end-to-end lab testing, with no major content updates.
@@ -31,7 +31,7 @@ N/A
 
 #### Testing Notes
 
-**Testing Date:** 2026-09-02
+**Testing Date:** 2026-08-28
 
 **Testing Scope**
 
