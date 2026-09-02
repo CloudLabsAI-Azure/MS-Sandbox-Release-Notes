@@ -47,6 +47,8 @@ Validations are good.
 
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
+</details>
+
 ---
 
 <details>
