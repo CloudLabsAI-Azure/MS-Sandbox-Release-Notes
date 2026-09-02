@@ -125,7 +125,7 @@ New lab added, structured as 4 tasks:
 
 ### Testing Scope
 
-End-to-end walkthrough completed for Tasks 1 and 2 against a live tenant. Task 4's watchlist, KQL tool, trigger, publish, and run mechanics were exercised successfully; the agent's MCP-driven enrichment step was not.
+Completed for Tasks 1 and 2. Task 3 and Task 4's watchlist, KQL tool, trigger, publish, and run mechanics were exercised successfully; the agent's MCP-driven enrichment step was not.
 
 ### Known Issues
 
