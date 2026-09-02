@@ -97,3 +97,38 @@ All validations completed successfully.
 Completed end-to-end testing for Day 03 labs and all validations succeeded successfully. Updated the Getting Started page with the latest UI changes for the Environment tab and incorporated the latest Microsoft Defender portal UI updates across the lab guide.
 
 </details>
+
+<details>
+  <summary>2026-08-19</summary>
+
+## Release Date: 2026-08-19
+
+### Summary of Changes
+
+Added **Lab 12: Extending Microsoft Security Copilot with the Microsoft Sentinel MCP Server** to Day 03.
+
+# Guided Lab: Day 3 - Implement Microsoft Security Copilot
+
+## UI Changes
+
+- Getting Started page updated: Lab 12 added to the Day 03 lab list, duration extended, MCP Server and Model Context Protocol concepts added to the objectives and component sections
+- No changes made to Labs 07–11; Lab 12 references them read-only where relevant
+
+## Content Changes
+
+New lab added, structured as 4 tasks:
+
+- **Task 1** – Build a custom Security Copilot agent and add Microsoft Sentinel's MCP tool collection from the agent Tools catalog
+- **Task 2** – Publish the agent and connect its plugins
+- **Task 3** – Review MCP extensibility and three investigation prompts *(read only — see Known Issues)*
+- **Task 4** – Configure the agent to monitor a Microsoft Sentinel watchlist on a schedule *(enrichment step read only — see Known Issues)*
+
+### Testing Scope
+
+End-to-end walkthrough completed for Tasks 1 and 2 against a live tenant. Task 4's watchlist, KQL tool, trigger, publish, and run mechanics were exercised successfully; the agent's MCP-driven enrichment step was not.
+
+### Known Issues
+
+- **Microsoft Sentinel MCP tools return `404 (Not Found)` on invocation**, due to Sentinel data lake unavailability in the current region. Affects Task 3 and Task 4's enrichment step.
+
+</details>
