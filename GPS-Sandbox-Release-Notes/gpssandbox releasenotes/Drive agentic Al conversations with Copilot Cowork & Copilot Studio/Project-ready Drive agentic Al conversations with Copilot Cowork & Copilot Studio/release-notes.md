@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Performed comprehensive lab testing and content updates across all five labs (Lab 1-5). Enhanced all lab guides with improved step-by-step instructions, updated screenshot references, refined UI navigation patterns, and added critical troubleshooting notes to improve user experience and lab reliability.
+Performed comprehensive lab testing and content updates across all five labs (Lab 1-5). Enhanced all lab guides with improved step-by-step instructions, updated screenshot references, refined UI navigation, and streamlined troubleshooting notes.
 
 ### Infrastructure Changes
 
@@ -42,28 +42,28 @@ Performed comprehensive lab testing and content updates across all five labs (La
 **Lab 2 - Intelligence Layer with Microsoft 365 Copilot:**
 - Updated all browser navigation instructions to include "On your virtual machine, open a browser" prefix for consistency.
 - Enhanced SharePoint site creation instructions with improved unique naming guidance (appending 4-digit numbers instead of simple suffixes).
-- Updated site creation screenshot references
-- Refined note about site name conflicts: Extended explanation to clarify that unique naming helps avoid conflicts with other users' sites (dr11.png reference).
+- Updated site creation screenshot references.
+- Refined note about site name conflicts: Extended explanation to clarify that unique naming helps avoid conflicts with other users' sites.
 - Added critical note for data analysis: "If this prompt appears, select any available option and click Submit to continue. The options displayed may vary based on your environment."
 - Added new screenshot reference for variable prompt options.
 - Added notice about Copilot-generated content variability: "Copilot-generated questions and results may vary."
-- Enhanced Word document analysis with improved source selection guidance: "The sources suggested by Copilot may vary. Select the relevant sources available in your environment, and then click Use selected."
+- Enhanced Word document analysis with improved source selection guidance: "The sources suggested by Copilot may vary. Select the relevant sources available in your environment, and then click Use selected sources."
 - Updated Cowork session access instructions with improved clarity.
 
 **Lab 3 - File Classification and Governance with Copilot Cowork:**
 - Updated browser navigation instructions to include "On your virtual machine, open a browser" pattern.
-- Enhanced SharePoint site creation with improved unique naming strategy
+- Enhanced SharePoint site creation with improved unique naming strategy.
 - Expanded note about site name conflicts with detailed guidance for 4-digit random suffix approach.
-- Added new troubleshooting note for folder detection: "If Copilot cannot find the 'Lab Files' folder, select Zava Site Documents (2) from the available options and click Submit to continue." (dr13.png reference)
+- Added new troubleshooting note for folder detection: "If Copilot cannot find the 'Lab Files' folder, select Zava Site Documents from the available options and click Submit to continue."
 - Improved file classification and renaming workflow clarity.
 
 **Lab 4 - Multi-Agent Orchestration and Security:**
 - Updated browser navigation instructions to consistently include "On your virtual machine, open a browser" prefix.
 - Enhanced SharePoint site creation guidance with improved unique naming documentation.
-- Extended note on site naming conflicts: "Update the Site address by appending a unique random 4-digit number to the end of the site name (for example, ZavaSite4827), and then continue with the site creation process."
+- Extended note on site naming conflicts: "Update the Site address by appending a unique random 4-digit number to the end of the site name, and then continue with the site creation process."
 - Updated Copilot Studio login instructions with new experience toggle guidance.
 - Fixed formatting in message description box: Replaced escaped apostrophe with standard character for improved readability.
-- Added new troubleshooting note for HR document site creation: "If you receive the message 'The site address is available with modification', update the Site address by appending a unique random 4-digit number to the end of the site name (for example, HRDocument4827), and then continue with the site creation process."
+- Added new troubleshooting note for HR document site creation: "If you receive the message 'The site address is available with modification', update the Site address by appending a unique random 4-digit number to prevent naming conflicts."
 
 **Lab 5 - Create Content with Designer & Editor:**
 - Updated sign-in flow with explicit credential injection fields and screenshot references.
@@ -92,6 +92,6 @@ Successfully completed comprehensive lab testing across all five project-ready l
 - Browser navigation and portal access patterns
 - Troubleshooting paths and fallback options
 
-All lab instructions have been updated for consistency, accuracy, and alignment with the latest Copilot platform experiences. User experience improvements include clearer navigation guidance, improved screenshot coverage, and comprehensive troubleshooting notes for common issues.
+All lab instructions have been updated for consistency, accuracy, and alignment with the latest Copilot platform experiences. User experience improvements include clearer navigation guidance, enhanced troubleshooting documentation, and refined authentication workflows.
 
 </details>
