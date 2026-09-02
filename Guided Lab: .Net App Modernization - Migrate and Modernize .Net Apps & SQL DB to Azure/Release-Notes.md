@@ -14,6 +14,56 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 Email Support: cloudlabs-support@spektrasystems.com
 
 # Release Notes
+<details>
+  <summary>2026-08-13</summary>
+
+## Release Date: 2026-08-13
+
+### Summary of Changes
+
+Completed a testing and validation cycle for the Guided Lab: *Migrate and Modernize .NET Apps & SQL DB to Azure*. Updates in this cycle focused on lab permissions, resource provider prerequisites, CI/CD pipeline reliability, and a full editorial pass across all exercises.
+
+### Infrastructure Changes
+
+1. Updated the custom **RBAC role** and **Azure Policy** applied to the lab user to include the permissions required for monitoring and observability resources, resolving authorization failures encountered while configuring **Application Insights** and its associated **Log Analytics workspace**.
+
+2. Confirmed and documented the **Azure Migrate Owner** role requirement at the resource group scope for the lab user, along with the supporting RBAC and policy configuration needed for Azure Migrate project creation.
+
+3. Documented the **resource provider registration** prerequisites that must be completed at the subscription level by the subscription owner, as these cannot be granted through a resource group–scoped role assignment.
+
+4. Updated the **GitHub Actions workflow template** used by the CI/CD exercise so that the build runs on a compatible hosted runner, resolving a build agent failure during application deployment to the staging slot.
+
+## Content Changes
+
+1. Updated the Application Insights configuration guidance to align with the current Azure portal behavior and the resources provisioned in the lab environment.
+
+2. Updated the CI/CD pipeline exercise, including the workflow file content and the accompanying deployment instructions.
+
+3. Corrected step numbering and sequencing issues across multiple exercises, and aligned in-step callout references with the corresponding screenshots.
+
+4. Refreshed tool and service references to match current versions and portal navigation, and updated screenshots where the UI had changed.
+
+5. Performed an editorial pass across all exercises to improve clarity, consistency, and readability of the lab instructions, without changing the steps performed by the participant.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-13
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation of the lab. Verified permission and policy configurations, Azure Migrate and Load Testing resource creation, database assessment and migration workflows, CI/CD deployment through GitHub Actions, monitoring configuration, and network security exercises.
+
+### Additional Notes
+
+- Permission-related blockers identified during testing were resolved through updates to the custom RBAC role and policy, and through subscription-level prerequisites documented for the onboarding team.
+- Lab testing completed successfully.
+
+</details>
+
 
 <details>
   <summary>2026-05-29</summary>
