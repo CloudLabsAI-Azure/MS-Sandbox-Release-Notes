@@ -366,3 +366,32 @@ Validations are good.
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
 
 </details>
+<details>
+  <summary>2026-08-21</summary>
+
+## Release Date: 2026-08-21
+
+### Summary of Changes
+Added **Activate Fabric IQ across the workspace** as a new standalone guided lab, structured as 3 exercises. New ODL and template created for the lab.
+
+# Guided Lab: Activate Fabric IQ across the workspace
+
+## UI Changes
+- New Getting Started page authored: objectives, components, and duration added for the new lab
+- Fabric IQ, ontology, Fabric Data Agent, MLflow, and GPU-accelerated Data Warehouse concepts added to the objectives and component sections
+- Follows the file structure and conventions of the existing Fabric modules
+
+## Content Changes
+New lab added, structured as 3 exercises:
+
+- **Exercise 1 – Activate Fabric IQ across the workspace and run an IQ-guided code generation sprint in Spark and DAX** *(120 minutes, 10 tasks)* – Create the shared workspace and warehouse, build the semantic model, enable the Fabric IQ preview tenant settings, publish `DWInsightsOntology`, and run IQ-guided DAX and Spark Copilot sprints
+- **Exercise 2 – Build a Fabric Data Agent over the trained model output for natural-language model queries** *(60 minutes, 6 tasks)* – Train and compare two models with MLflow, save and score `model-churn`, write the `churn_predictions` table, then publish and test the `churn-data-agent`
+- **Exercise 3 – Add GPU-accelerated Fabric Data Warehouse context** *(30 minutes, 2 tasks)* – Review the workspace Data Warehouse settings *(Task 1 read only — see Known Issues)* and measure query performance with `queryinsights` against a scaled fact table
+
+### Testing Scope
+End-to-end Testing completed for all 3 exercises. Portal UI deviations found during testing were patched and affected screenshots re-captured.
+
+### Known Issues
+- **Query acceleration (Preview) toggle not available in the tenant** — GPU query acceleration is an opt-in early access preview rolling out tenant by tenant. **Exercise 3, Task 1** is authored **read only**; Task 2 is unaffected and runs on the standard CPU engine.
+
+</details>
