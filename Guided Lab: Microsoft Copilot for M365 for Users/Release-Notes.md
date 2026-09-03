@@ -17,9 +17,9 @@ Email Support: cloudlabs-support@spektrasystems.com`
 # Release Notes
 
 <details>
-  <summary>2026-09-03</summary>
+  <summary>2026-05-27</summary>
 
-## Release Date: 2026-09-03
+## Release Date: 2026-05-27
 
 ### Summary of Changes
 
@@ -41,7 +41,7 @@ N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-09-03
+- **Testing Date**: 2026-05-27
 
 ### Testing Scope
 
