@@ -85,3 +85,32 @@ Successfully completed end-to-end lab testing and validation. Thoroughly reviewe
 
 ---
 </details>
+<details>
+  <summary>2026-08-28</summary>
+
+## Release Date: 2026-08-28
+
+### Summary of Changes
+Added **Lab 08: Multi-model incident analysis and AI-generated remediation playbooks** to the **Threat Protection with XDR** course. Cost estimates updated.
+
+# Guided Lab: Threat Protection with XDR
+
+## UI Changes
+- Getting Started page updated: Lab 08 added to the lab list, duration extended, objectives and components updated
+
+## Content Changes
+New lab added, with 7 tasks:
+- **Task 1** – Provision two model deployments
+- **Task 2** – Build the incident evidence package
+- **Task 3** – Analyse the incident with both models
+- **Task 4** – Compare findings and document divergence
+- **Task 5** – Create an integration profile
+- **Task 6** – Auto-create a remediation playbook
+- **Task 7** – Enable the playbook and create an Enhanced Alert Trigger
+
+Cost estimates updated for the new lab.
+
+### Testing Scope
+Built New content, feasibility tested on the same. Content updated based on the test results and completed the onboarding end to end.
+
+</details>
