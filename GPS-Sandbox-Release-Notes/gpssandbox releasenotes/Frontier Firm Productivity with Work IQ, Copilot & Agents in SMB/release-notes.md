@@ -1,6 +1,6 @@
-# Accelerate data insights with Copilot in Power BI
+# Frontier Firm Productivity with Work IQ, Copilot & Agents in SMB
 
-Welcome to the **Accelerate data insights with Copilot in Power BI** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
+Welcome to the **Frontier Firm Productivity with Work IQ, Copilot & Agents in SMB** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, bug fixes, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -17,9 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-06-09</summary>
+  <summary>2026-09-07</summary>
   
-## Release Date: 2026-06-09
+## Release Date: 2026-09-07
 
 ### Summary of Changes
 
@@ -39,13 +39,12 @@ N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-06-09
+- **Testing Date**: 2026-09-07
 
 ### Testing Scope 
 
 Successfully completed end-to-end lab testing . Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
-
-<details>
+</details>
 
 
 
