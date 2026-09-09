@@ -15,6 +15,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-09-09</summary>
+
+## Release Date: 2026-09-09
+
+### Summary of Changes
+
+Added a parallel high-level (goal-oriented) version of the lab content, and updated the deployment script's Python version for Semantic Kernel compatibility.
+
+### Infrastructure Changes
+
+- Updated the deployment script's Python version to 3.13 to satisfy Semantic Kernel's runtime requirements.
+
+### Content Changes
+
+- Converted all challenge content (overview, getting-started, challenges 1–5) into a new `high-level/` variant — objectives and required specifics (names, regions, IDs) kept, but click-by-click navigation removed so learners work out the portal path themselves.
+- Original guided-lab content is unchanged; both versions ship side by side.
+
+## Validations
+
+Validation works for the lab
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-09
+
+### Testing Scope
+
+Reviewed the high-level content for parity with the original (code blocks, inject/validation tags, and resource names verified unchanged). End-to-end learner walkthrough of the high-level path not yet performed.
+
+</details>
 
 <details>
   <summary>2026-08-12</summary>
