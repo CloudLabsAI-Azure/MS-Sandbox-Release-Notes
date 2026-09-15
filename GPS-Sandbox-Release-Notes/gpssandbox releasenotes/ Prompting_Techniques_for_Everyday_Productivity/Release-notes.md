@@ -35,7 +35,7 @@ N/A
 
 ## Validations
 
-Vaidations are Implemented for both Days.
+No validations implemented
 
 ### Testing Notes
 
