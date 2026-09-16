@@ -17,6 +17,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-16</summary>
+
+## Release Date: 2026-09-16
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validation, uncovering and resolving several infrastructure and content issues encountered during the walkthrough.
+
+### Infrastructure Changes
+
+- Fixed a VM provisioning issue where the lab VM entered a continuous reboot loop every 2–3 minutes, caused by the startup script (`psscript-01.ps1`) lacking an idempotency check and unconditionally forcing a restart on every boot. Added a completion-flag guard and wrapped each provisioning step in error handling so the VM only restarts after a fully successful run.
+- Updated the ARM template (`deploy-01.json`) to enable boot diagnostics on the VM for easier troubleshooting without RDP access, and to make the base image version pinnable via a parameter instead of always tracking `latest`.
+- Corrected the lab content extraction path so `MultiIQ.zip` unpacks directly into `C:\LabFiles\MultiIQ` instead of creating a duplicated nested `MultiIQ\MultiIQ` folder structure.
+
+### Content Changes
+
+- Identified that the service principal (`ClientID`/`ClientSecret`) provided for the Foundry IQ API challenge did not exist in the target tenant, requiring a new app registration before the lab could proceed; flagged for the provisioning/SPN-creation pipeline to be checked for reliability.
+- Found that the "Azure AI Developer" role referenced for granting Foundry file-upload permissions does not apply to Foundry projects (per Microsoft's own guidance) and documented that the correct role is **Foundry User**, assigned at both the Foundry account and project scope.
+- Noted that the suggested Function App naming pattern (`func-multiiq-<ID>`) can collide across students since Function App names must be globally unique, and a uniquifying suffix is needed.
+- The guide has been updated to high-level instructions for improved clarity and ease of following, without changing the underlying technical steps.
+
+## Validations
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-16
+
+### Testing Scope
+
+Completed end-to-end testing of the VM provisioning flow, the Foundry IQ API knowledge-base build/query steps, and the Azure Function App creation step. Root-caused and resolved the reboot loop, RBAC/permission gaps for Foundry file uploads, and folder-structure issues in the lab content, ensuring the lab instructions and underlying scripts/templates are accurate and reproducible.
+
+---
+</details>
+
+<details>
   <summary>2026-08-31</summary>
 
 ## Release Date: 2026-08-31
