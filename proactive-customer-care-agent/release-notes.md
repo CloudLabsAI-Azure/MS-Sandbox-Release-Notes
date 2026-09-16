@@ -17,6 +17,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-16</summary>
+  
+## Release Date: 2026-09-16
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations, with content and screenshot updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Condensed granular, click-by-click step-by-step instructions into fewer, higher-level steps across Challenges 01-05, while preserving all credentials, exact values, and notes.
+- Updated the "Click Next" pagination screenshot on the Overview, Getting Started, and Challenge 01-04 pages to reflect the current portal UI.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-16
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
+</details>
+
+<details>
   <summary>2026-03-30</summary>
   
 ## Release Date: 2026-03-30
