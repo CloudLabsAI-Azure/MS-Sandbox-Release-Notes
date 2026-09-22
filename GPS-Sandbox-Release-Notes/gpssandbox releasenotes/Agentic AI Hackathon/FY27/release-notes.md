@@ -23,7 +23,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- Performed end-to-end lab testing and validation.
+- Performed end-to-end lab testing and added validation.
 - Updated the Challenge Guide and Solution Guide with screenshots and enhanced instructions to improve the overall learner experience.
 
 ### Project 1
