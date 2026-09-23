@@ -91,3 +91,43 @@ N/A
 Successfully completed end-to-end testing with successful validations across all four projects. Verified the updated lab documentation, including the revised screenshots and instructions, and confirmed that the overall lab workflows function as expected.
 
 </details>
+
+<details>
+  <summary>2026-09-09</summary>
+  
+## Release Date: 2026-09-09
+
+### Summary of Changes
+
+- Performed end-to-end lab testing.
+- Updated the Solution Guide with screenshots and enhanced instructions to improve the overall learner experience.
+
+### Project 4
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Picked up AAH FY27 Project 4: Building a Multimodal Retrieval-Augmented Generation Pipeline, completed end-to-end testing.
+- Added the Getting Started page and completed the required minor updates to the lab.
+- Connected with Anand, worked on generating RBAC and policy configurations.
+
+## Validations
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-09
+
+### Testing Scope 
+
+Successfully completed end-to-end testing
+
+</details>
+
+
+</details>
+
