@@ -79,3 +79,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Conducted end-to-end testing of the lab environment. The lab guide was updated with few screenshots and minor improvements to ensure better clarity and user experience
 
 </details>
+
+<details>
+  <summary>2026-09-25</summary>
+
+## Release Date: 2026-09-25
+
+### Summary of Changes 
+
+- Completed end-to-end testing of the Guided Lab: Implementing Security for AI Applications, Copilots, and Agents and updated the lab guide with the latest UI changes, screenshots, content, and instructions.
+
+- Updated the lab to reflect the retirement of Data Security Posture Management (classic) incorporating the latest DSPM experience.
+
+- Updated the lab automation to resolve a ZIP download failure caused by the GitHub repository being made private.
+
+### Infrastructure Changes
+
+- The GitHub repository used by the lab automation was made private, which caused the ZIP download step to fail.
+
+- Updated the automation to include the required file directly instead of downloading it from the repository.
+
+- Validated the updated automation, and the pipeline completed successfully.
+
+### Content Changes
+
+- Updated instructions across the lab to align with the latest UI and lab flow.
+
+- Replaced the Data Security Posture Management (classic) steps with the latest DSPM experience.
+
+### Screenshot Update
+
+- Updated screenshots across the lab to reflect the latest UI, including the new DSPM experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-25
+
+### Testing Scope 
+
+- Conducted end-to-end testing of the lab environment, including validation of the updated automation pipeline. The lab guide was updated with the latest UI screenshots and content changes to ensure better clarity and user experience.
+
+</details>
