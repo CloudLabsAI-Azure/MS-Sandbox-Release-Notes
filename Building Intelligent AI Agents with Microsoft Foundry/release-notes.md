@@ -17,6 +17,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-30</summary>
+  
+## Release Date: 2026-09-30
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations. Resolved the codebase issues identified during testing by deploying the updated codebase, removed the agent cleanup steps from the lab guide, and added inline validations.
+
+### Infrastructure Changes
+
+- Deployed the updated workshop codebase to resolve the issues identified during testing, including package version conflicts in the observability (OpenTelemetry tracing) setup, embeddings client authentication, and environment variable loading in the notebooks.
+
+- Reviewed the ODL and template configurations.
+
+### Content Changes
+
+- Removed the agent and resource cleanup steps from Challenges 3, 4, and 5, so the agents created during the lab remain available for validation.
+
+- Added inline validations for the **Azure AI Search** service, **Grounding with Bing Search** resource, and **Foundry project** (Challenge 1), **HealthTipsAgent** (Challenge 3), **health-search-agent** and **fitness-agent-search** (Challenge 4), and the **Application Insights** resource (Challenge 5).
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-30
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation across all five challenges. Verified the updated codebase, the agent creation flows, and the newly added inline validations. Reviewed the ODL and template configurations, and thoroughly reviewed all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+
+---
+</details>
+
+<details>
   <summary>2026-08-19</summary>
   
 ## Release Date: 2026-08-19
