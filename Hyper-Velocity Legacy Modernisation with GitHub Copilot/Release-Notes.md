@@ -17,6 +17,41 @@ This page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-01</summary>
+  
+## Release Date: 2026-10-01
+
+### Summary of Changes
+
+- Completed the lab testing for all Challenges 01 to 05 and updated the instructions.
+- Updated the powershell script to align with the latest requirements.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the deployment script to install Python 3.11, as Bandit fails on the image's default Python 3.14.
+- Added the missing lab packages (pytest-cov, pytest-mock, bandit, pbr) to the deployment script.
+- Added fork, clone and Git setup steps to Getting Started.
+- Removed Copilot Code Review from Challenge 05.
+
+## Validations
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-01
+
+### Testing Scope 
+
+Successfully completed end-to-end testing for the lab. Verified the complete lab workflow and updated the lab guide based on observations identified during testing to ensure a smooth learner experience.
+
+</details>
+
+<details>
   <summary>2026-08-10</summary>
 
 ## Release Date: 2026-08-10
@@ -50,4 +85,5 @@ N/A
 ### Testing Scope
  
 Successfully completed end-to-end testing of Challenges 01 through 05. All lab instructions were reviewed and validated against the observed lab flow, with content corrections applied where instructions did not match actual behaviour.
- 
+
+</details>
