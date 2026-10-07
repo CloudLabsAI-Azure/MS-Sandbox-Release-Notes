@@ -15,6 +15,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-10-01</summary>
+
+## Release Date: 2026-10-01
+
+### Summary of Changes
+
+Reviewed and tested the full lab for grammar, clarity, UI updates and consistency. Matched the screenshot callout numbers to the instructions.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+1. Fixed spelling, grammar and punctuation across all exercises.
+
+2. Tightened and standardized instruction wording, and aligned UI labels with the current Azure portal.
+
+3. Added missing screenshot callout numbers (1), (2), and so on, and corrected callouts that did not match their screenshots.
+
+4. Clarified the CORS steps in the Serverless exercise. Learners now confirm the inherited **All APIs** CORS policy instead of adding a second one.
+
+5. Rewrote the Getting Started overview, which had been copied from an unrelated lab, to describe this API Management lab.
+
+## Validations
+
+All validations succeeded.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-01
+
+### Testing Scope
+
+Editorial review of every lab page against its screenshots. No steps, code, resource names or validation tags were changed.
+
+---
+
+</details>
 
 <details>
   <summary>2026-08-14</summary>

@@ -83,3 +83,37 @@ Successfully completed end-to-end lab testing and validation. Thoroughly reviewe
 ---
 
 </details>
+
+<details>
+  <summary>2026-09-29</summary>
+  
+## Release Date: 2026-09-29
+
+### Summary of Changes
+
+Performed end-to-end lab testing and updated the lab guide for the new Copilot Studio UI.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+1. Updated Copilot Studio steps for the new UI: environment switch, agent creation using **New agent → Agent (Standard)**, adding a topic, and the Azure AI Search connection.
+2. Updated the related screenshots and fixed minor typos.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-29
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest Copilot Studio changes. 
+
+---
+
+</details>

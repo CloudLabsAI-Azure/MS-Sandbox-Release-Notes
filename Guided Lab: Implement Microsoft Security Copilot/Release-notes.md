@@ -132,3 +132,86 @@ Completed for Tasks 1 and 2. Task 3 and Task 4's watchlist, KQL tool, trigger, p
 - **Microsoft Sentinel MCP tools return `404 (Not Found)` on invocation**, due to Sentinel data lake unavailability in the current region. Affects Task 3 and Task 4's enrichment step.
 
 </details>
+<details>
+  <summary>2026-09-28</summary>
+
+## Release Date: 2026-09-28
+
+### Summary of Changes
+
+Successfully completed end-to-end testing and validation across all guided lab modules for Day 01, Day 02, and Day 03. Updated the lab guides with the latest UI enhancements, Environment tab changes, workflow corrections, updated screenshots, navigation improvements, and the latest Microsoft Defender portal UI updates to align with the current portal experience.
+
+# Guided Lab: Day 1 - Implement Microsoft Security Copilot
+
+## UI Changes
+
+- Updated the lab guide based on the latest Microsoft Defender portal UI changes  
+- Revised screenshots, navigation flow, and portal steps to align with the latest Defender portal experience  
+- Updated the Getting Started page with the latest Environment tab UI changes  
+
+## Content Changes
+
+Completed end-to-end testing for Day 01 labs and all validations passed successfully. Updated the lab guide content wherever required to align with the latest portal workflows and UI experience.
+
+## Validations
+
+All validations completed successfully.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-26
+
+### Testing Scope
+
+Completed end-to-end testing for Day 01 labs and all validations were successful. Updated the Getting Started page with the latest UI changes for the Environment tab and incorporated the latest Microsoft Defender portal UI updates across the lab guide.
+
+# Guided Lab: Day 2 - Implement Microsoft Security Copilot
+
+## UI Changes
+
+- Updated the lab guide based on the latest Microsoft Defender portal UI changes  
+- Revised screenshots, navigation flow, and portal steps to align with the latest Defender portal experience  
+- Updated the Getting Started page with the latest Environment tab UI changes  
+
+## Content Changes
+
+Completed end-to-end testing for Day 02 labs and all validations passed successfully. Updated the lab guide content wherever required to align with the latest portal workflows and UI experience.
+
+## Validations
+
+All validations completed successfully.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-26
+- **Tested By**: Nikhil
+
+### Testing Scope
+
+Completed end-to-end testing for Day 02 labs and all validations were successful. Updated the Getting Started page with the latest UI changes for the Environment tab and incorporated the latest Microsoft Defender portal UI updates across the lab guide.
+
+# Guided Lab: Day 3 - Implement Microsoft Security Copilot
+
+## UI Changes
+
+- Updated the lab guide based on the latest Microsoft Defender portal UI changes  
+- Revised screenshots, navigation flow, and portal steps to align with the latest Defender portal experience  
+- Updated the Getting Started page with the latest Environment tab UI changes  
+
+## Content Changes
+
+Completed end-to-end testing for Day 03 labs and all validations passed successfully. Updated the lab guide content wherever required to align with the latest portal workflows and UI experience.
+
+## Validations
+
+All validations completed successfully.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-28
+
+### Testing Scope
+
+Completed end-to-end testing for Day 03 labs and all validations were successful. Updated the Getting Started page with the latest UI changes for the Environment tab and incorporated the latest Microsoft Defender portal UI updates across the lab guide.
+
+</details>

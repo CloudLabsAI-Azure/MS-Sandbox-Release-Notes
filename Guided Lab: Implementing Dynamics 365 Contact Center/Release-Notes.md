@@ -48,3 +48,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Conducted end-to-end testing of the lab environment. The lab guide was updated with few screenshots and minor improvements to ensure better clarity and user experience
 
 </details>
+
+<details>
+  <summary>2026-09-28</summary>
+
+## Release Date: 2026-09-21
+
+### Summary of Changes 
+
+- Completed end-to-end testing of the Implementing Dynamics 365 Contact Center lab and updated the lab guide content and UI screenshots to match the latest portal experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated the instructions for creating a new environment in the Power Platform admin center to reflect the latest UI.
+
+- Updated the instructions for creating a new workstream in the Dynamics 365 portal to reflect the latest UI.
+
+### Screenshot Update
+
+- Replaced outdated screenshots for Power Platform admin center environment creation with the latest UI.
+
+- Replaced outdated screenshots for Dynamics 365 workstream creation with the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-21
+
+### Testing Scope 
+
+- Conducted end-to-end testing of the lab environment. The lab guide was updated with the latest UI screenshots and content changes to ensure better clarity and user experience.
+
+</details>
