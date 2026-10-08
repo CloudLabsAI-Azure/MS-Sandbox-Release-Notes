@@ -46,3 +46,29 @@ Validations are good.
 Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
 
 ---
+</details>
+<details>
+<summary>2026-10-05</summary>
+
+## Release Date: 2026-10-05
+
+### Summary of Changes
+Completed lab testing and updated the lab guide with the latest Copilot and M365 UI changes.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+1. Updated Getting Started, Pre-Requisites, and Labs 01–04 with the latest UI changes and screenshots.
+
+## Validations
+N/A
+
+### Testing Notes
+- **Testing Date**: 2026-10-05
+
+### Testing Scope
+End-to-end testing of the lab was completed, and all exercises work as expected with the updated UI.
+
+---
+</details>
