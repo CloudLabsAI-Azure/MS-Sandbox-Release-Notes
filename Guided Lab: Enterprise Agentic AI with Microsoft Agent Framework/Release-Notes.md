@@ -50,3 +50,31 @@ Validations are good.
 Performed live, hands-on end-to-end testing of the full multi-agent system across every exercise in a real Azure/Foundry sandbox environment, including runtime governance and automated behavior validation with ASSERT. Identified and fixed real upstream Microsoft Agent Framework SDK breaking changes encountered during testing, and confirmed all lab instructions are accurate and reproducible end-to-end.
 
 </details>
+
+<details>
+<summary>2026-10-05</summary>
+
+## Release Date: 2026-10-05
+
+### Summary of Changes
+Moved lab files to blob storage, updated agent code to the latest package versions, and replaced Freshdesk ticketing with SharePoint.
+
+### Infrastructure Changes
+1. Moved lab files (datasets, code, telemetry) from the broken GitHub link to blob storage and updated the deployment script.
+2. Updated the agent code for the latest package versions and fixed the MCP package conflict.
+
+## Content Changes
+1. Added notes and fixes to the lab guide in Exercises 2, 3, 5, and 6.
+2. Replaced the Freshdesk ticket creation task with SharePoint, because Freshdesk sign-up does not accept the lab user email.
+
+## Validations
+Validations are good.
+
+### Testing Notes
+- **Testing Date**: 2026-10-05
+
+### Testing Scope
+End-to-end testing was completed. Routing, search grounding, monitoring, and ticket creation all work as expected.
+
+---
+</details>
