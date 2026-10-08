@@ -50,3 +50,30 @@ Performed end-to-end validation of the lab guide from Getting Started through Ex
 
 ---
 </details>
+<details>
+<summary>2026-10-07</summary>
+
+## Release Date: 2026-10-07
+
+### Summary of Changes
+Completed lab testing, added the GitHub credentials to the template, and moved the automation's code file source from GitHub to Azure DevOps.
+
+### Infrastructure Changes
+1. Updated the template with the required GitHub credentials, which were previously missing.
+2. Updated the automation to pull the code file from Azure DevOps instead of GitHub.
+
+## Content Changes
+1. Added a GitHub login section to the Getting Started page.
+2. Updated the lab guide as required based on testing.
+
+## Validations
+N/A
+
+### Testing Notes
+- **Testing Date**: 2026-10-06
+
+### Testing Scope
+End-to-end testing of the lab was completed. The deployment with the updated DevOps-based automation was verified successfully.
+
+---
+</details>
