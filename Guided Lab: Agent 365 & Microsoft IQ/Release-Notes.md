@@ -53,3 +53,29 @@ Performed live, hands-on end-to-end testing of every module in a real Azure lab 
 
 ---
 </details>
+<details>
+<summary>2026-10-09</summary>
+
+## Release Date: 2026-10-12
+
+### Summary of Changes
+Completed end-to-end testing of the guided lab and updated the lab guide with the latest portal UI changes, screenshots, and content.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+1. Updated the lab guide with the latest portal UI changes, screenshots, and content.
+2. Fully updated Exercise 4 to match the latest Copilot Studio UI and experience.
+
+## Validations
+Validations are good.
+
+### Testing Notes
+- **Testing Date**: 2026-10-08
+
+### Testing Scope
+Completed end-to-end testing of the Agent 365 & Microsoft IQ: Enterprise AI Governance for M365 guided lab, including the Getting Started page and Exercises 1–4.
+
+---
+</details>
