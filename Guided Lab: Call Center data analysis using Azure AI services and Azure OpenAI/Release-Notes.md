@@ -95,3 +95,28 @@ Successfully completed end-to-end testing of the complete lab, including validat
 
 </details>
 
+<details>
+<summary>2026-10-16</summary>
+
+## Release Date: 2026-10-16
+
+### Summary of Changes
+Completed end-to-end lab testing, applied RBAC and policy, and updated the lab guide to align with the latest UI.
+
+### Infrastructure Changes
+1. Applied RBAC and policy to the lab environment.
+
+## Content Changes
+1. Updated lab guide steps and screenshots to reflect the latest UI changes.
+
+## Validations
+Validations are good.
+
+### Testing Notes
+- **Testing Date**: 2026-10-16
+
+### Testing Scope
+End-to-end testing and validation of the lab were completed successfully with RBAC and policy applied.
+
+---
+</details>
