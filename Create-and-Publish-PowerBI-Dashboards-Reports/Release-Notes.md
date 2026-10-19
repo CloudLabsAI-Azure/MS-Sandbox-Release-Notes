@@ -16,7 +16,32 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+<details>
+<summary>2026-10-19</summary>
 
+## Release Date: 2026-10-19
+
+### Summary of Changes
+Added the missing validations and replaced the Fabric Administrator role assignment with a deployment script.
+
+### Infrastructure Changes
+1. Removed the Fabric Administrator role assignment for the lab user.
+2. Added a deployment script to handle the role setup; tested successfully.
+
+## Content Changes
+1. Added the missing validations to the lab guide.
+
+## Validations
+Validations are added and tested. They work as expected because the lab user has the Global Administrator role in this lab.
+
+### Testing Notes
+- **Testing Date**: 2026-10-19
+
+### Testing Scope
+End-to-end testing and validation were completed. The deployment script ran successfully, and the lab works as expected.
+
+---
+</details>
 <details>
   <summary>2026-06-21</summary>
 
