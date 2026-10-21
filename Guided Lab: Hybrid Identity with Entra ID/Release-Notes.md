@@ -15,6 +15,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-10-16</summary>
+  
+## Release Date: 2026-10-16
+
+### Summary of Changes
+
+Reviewed all isolated labs and their Getting Started pages for consistency, aligning overviews, objectives and components with what each lab actually does. Updated instructions and screenshots to match the current UI, and added a lab overview to the README.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Aligned each Getting Started page with its lab: Lab 06 now lists the components it actually uses (Access Reviews, My Access, External ID, Microsoft Authenticator), and the SSPR and PIM pages no longer promise password writeback setup or approval workflows.
+- Corrected overviews and headings that did not match the steps: removed the Azure Arc reference from Lab 04, renamed the Lab 03 task to "Assign Microsoft Entra roles", and fixed the Lab 06 title (was "Lab 05").
+- Lab 02: the password change test now uses the Allan Deyoung user and the password from the Environment tab instead of a hard-coded one.
+- Lab 04: simplified the workspace creation and diagnostic settings steps, and corrected the callout numbers to match the screenshots.
+- Added short task introductions, fixed spelling, grammar and terminology across all labs, refreshed screenshots for the current UI, and added a lab overview and lab table to the README.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-16
+
+### Testing Scope 
+
+Reviewed every lab guide and Getting Started page against its own steps and the self-paced masterdocs, so that overviews, objectives and components describe only what each lab delivers.
+
+---
+</details>
 
 <details>
   <summary>2026-04-22</summary>
