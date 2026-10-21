@@ -15,7 +15,33 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+<summary>2026-10-21</summary>
 
+## Release Date: 2026-10-21
+
+### Summary of Changes
+Completed end-to-end testing of the lab, added validations to the template, and created new lab guide files for all exercises along with the GL master doc.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+1. Created new MD files for Getting Started and Exercises 01–04.
+2. Created the GL master doc for the lab.
+3. Updated Exercise 04 steps to match the current Real-Time Dashboard UI (Add visual, Add Markdown).
+
+## Validations
+Validations were added to the template and are working as expected.
+
+### Testing Notes
+- **Testing Date**: 2026-10-21
+
+### Testing Scope
+End-to-end testing of the lab was completed, covering deployment, Getting Started, and Exercises 01–04, with all validations passing and no issues found.
+
+---
+</details>
 <details>
   <summary>2026-03-09</summary>
 
