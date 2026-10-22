@@ -16,6 +16,56 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-17</summary>
+
+## Release Date : 2026-08-17
+
+### Summary of Changes
+
+Updated the lab to align with the latest Microsoft Foundry terminology and workflow, including the lab title, scenarios, Getting Started page, Lab 2 content, task instructions, architecture diagrams, and screenshots.
+
+### Infrastructure Changes
+
+- Updated the deployment configuration from **Azure OpenAI** to **Microsoft Foundry**.
+- Updated the deployment script to assign the **Storage Blob Data Owner** role instead of the **Storage Blob Data Contributor** role.
+
+### Content Changes
+
+- Renamed the lab from Automate Document Processing using Azure OpenAI to Automate Document Processing using Microsoft Foundry.
+- Updated the Getting Started page to align with the latest Microsoft Foundry terminology and workflow.
+- Added scenarios across all lab pages to provide learners with additional context.
+- Added a Resize Virtual Machine View section to the Getting Started page.
+- Updated Lab 2 with a revised overview, objectives, task names, architecture, summary, and conclusion.
+- Lab 2 – Task 1 – Steps 1–3: Updated the instructions from Azure OpenAI to Microsoft Foundry.
+- Lab 2 – Task 2 – Steps 1–6: Updated the instructions to reflect the Microsoft Foundry workflow.
+- Lab 2 – Task 3 – Steps 1–52: Updated the complete task content to align with the latest Microsoft Foundry workflow.
+- Lab 1 – Task 5 – Step 18: Added an additional step to ensure the required content option is configured correctly.
+
+### Screenshot Updates
+
+- Updated the Getting Started architecture diagram and environment screenshots.
+- Added a screenshot for the Resize Virtual Machine View section.
+- Updated Accessing Your Lab Environment screenshots to reflect the latest experience.
+- Lab 1 – Task 1 – Step 4: Updated the screenshot to reflect the latest UI.
+- Lab 1 – Task 3 – Steps 4–5: Added screenshots to guide users through trusting the folder.
+- Lab 1 – Task 5 – Step 18: Added a screenshot highlighting the required configuration option.
+- Updated the Lab 2 architecture diagram to include Microsoft Foundry.
+- Lab 2 – Task 1 – Steps 1–3: Updated screenshots to reflect the Microsoft Foundry portal.
+- Lab 2 – Task 2 – Steps 1–6: Updated screenshots to reflect the Microsoft Foundry workflow.
+- Lab 2 – Task 3 – Steps 1–52: Updated screenshots to match the revised instructions and latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-17
+
+### Testing Scope 
+
+Validated the updated Getting Started page, Lab 1, and Lab 2 content, including the revised Microsoft Foundry workflow, task instructions, UI screenshots, architecture diagrams, and newly added learner guidance.
+
+---
+</details>
+
+<details>
   <summary>2026-06-26</summary>
   
 ## Release Date: 2026-06-26
