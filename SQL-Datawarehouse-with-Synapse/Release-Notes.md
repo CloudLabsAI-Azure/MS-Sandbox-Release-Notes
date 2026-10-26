@@ -16,6 +16,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-26</summary>
+
+## Release Date: 2026-10-26
+
+### Summary of Changes
+
+Moved the latest lab guide content from the **v2-2022** branch to the **guided-lab** branch, updated the masterdoc to point to the guided-lab branch, added the missing screenshots, and proofread the full lab guide.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Replaced the single-page `hol1.md` in the guided-lab branch with the current **Getting Started**, **Exercise 1** (`hol1-task1and2.md`) and **Exercise 2** (`hol1-task3and4.md`) pages.
+* Updated `masterdoc.json` to load all three pages from the **guided-lab** branch.
+* **Exercise 1 → Task 1:** Fixed step numbering (step 4 was missing, and the language selection step was numbered 1); corrected references to the notebook steps, **SQLPool01**, and the Spark monitoring task.
+* **Exercise 1 → Task 2:** Corrected the **On success** dependency step to refer to the pipeline canvas, the **Projection** tab name, and the **EnrichedCustomerData** sink name.
+* **Exercise 2 → Task 1:** Updated the activity status to **Succeeded**, fixed numbering in **Task 1.1**, and clarified multi-file selection.
+* **Exercise 2 → Task 2:** Corrected the **time range filter** callout and removed the outdated "Azure Synapse Analytics is still in preview" note.
+* Updated product names (**Microsoft Entra ID**, **Azure AI services**), changed docs.microsoft.com links to learn.microsoft.com, and fixed grammar, punctuation, and note formatting across all pages.
+
+### Screenshot Updates
+
+* Added 89 screenshots that the lab guide uses but that were missing from the guided-lab branch's `media` folder; all image references now resolve.
+* Screenshots still to be retaken with the latest UI:
+  * **Exercise 1 → Task 2 → Step 34** (`connect-arrow.png`) shows an **On completion** connector instead of **On success**.
+  * **Exercise 2 → Task 1 → Steps 4 and 11** show an older pipeline run with two activities instead of four.
+
+### Testing Notes
+
+- **Testing Date:** 2026-10-26 (content and screenshot review; no end-to-end lab run)
+
+### Testing Scope
+
+* Proofread the Getting Started, Exercise 1, and Exercise 2 pages.
+* Checked every screenshot against its step, and confirmed that all image references and masterdoc links load.
+
+</details>
+
+<details>
   <summary>2026-08-03</summary>
 
 ## Release Date: 2026-08-03
