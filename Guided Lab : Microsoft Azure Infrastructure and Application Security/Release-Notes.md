@@ -16,6 +16,132 @@ This page includes:
 # Release Notes
 
 <details>
+  <summary>2026-10-22</summary>
+
+## Release Date: 2026-10-22
+
+### Summary of Changes
+
+All five modules were tested end to end and updated to match the latest Azure portal experience, including the new Virtual Network Flow Log wizard, the Network security hub that now includes Firewall Manager, and the updated WAF custom rule and condition panes.
+
+Traffic Analytics on Virtual Network Flow Logs was failing because the lab's custom allowed-resources policy did not permit the data collection rule and data collection endpoint resources that Traffic Analytics creates. The policy has been updated to allow `Microsoft.Insights/dataCollectionRules` and `Microsoft.Insights/dataCollectionEndpoints`, and the storage SKU value was corrected from `StandardLRS` to `Standard_LRS`.
+
+Rendering issues in the CloudLabs guide viewer, caused by indented lines directly after validation tags, have been fixed in Modules 2, 3, and 5. The Getting Started section of every module now uses a **Temporary Access Pass** for sign-in.
+
+## Module 1: Secure administration and management
+
+### Content Changes
+
+- Updated the Virtual Network Flow Log steps for the new **Create a flow log** wizard (**Add virtual networks**, **Storage account**, **Configure**, and **Analytics** tabs, and **Create resource**).
+- Added the **Log Analytics Workspace** and **Subscription** selections when enabling Traffic Analytics.
+- Fixed grammar and wording throughout the module and updated screenshots.
+- Updated the Getting Started section to use a **Temporary Access Pass**.
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-19
+
+### Testing Scope
+
+Successfully completed end-to-end testing of the module and validated all lab guide steps. Content and screenshots were updated to match the current Azure portal.
+
+## Module 2: Secure application
+
+### Content Changes
+
+- Updated the WAF custom rule steps for Application Gateway and Azure Front Door to the new **Add custom rule** and **Add condition** panes, including **Rule action**, **Operation**, and **Operator** fields.
+- Updated the **Add security policy** steps and increased the Front Door propagation wait time to 15–30 minutes.
+- Added a note to open **Front Door and CDN profiles** if the Azure Front Door page fails to load.
+- Moved the validation step and removed the redundant prevention/detection mode toggle steps.
+- Fixed grammar, rendering, and image paths, and updated screenshots.
+- Updated the Getting Started section to use a **Temporary Access Pass**.
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-21
+
+### Testing Scope
+
+Successfully completed end-to-end testing of the module and validated all lab guide steps. Content and screenshots were updated to match the current Azure portal.
+
+## Module 3: Secure Infrastructure with Azure Firewall Premium
+
+### Content Changes
+
+- Updated navigation for **Firewall Manager**, which is now part of the **Network security** service, including **Azure Firewall Policies** and **Virtual Hubs**.
+- Updated WAF policy association steps to **Settings > Associations**.
+- Added troubleshooting notes for IDPS policy update timeouts, delayed IDPS enforcement, and the Key Vault access error for TLS inspection.
+- Updated the IP Group step to use the **FirewallVMSubnet** address range instead of `*`.
+- Updated log queries to **Firewall Logs (Resource Specific Tables)**.
+- Added the missing validation step, fixed rendering issues, and updated screenshots.
+- Updated the Getting Started section to use a **Temporary Access Pass**.
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-22
+
+### Testing Scope
+
+Successfully completed end-to-end testing of the module and validated all lab guide steps. Content and screenshots were updated to match the current Azure portal.
+
+## Module 4: Protecting Infrastructure with Azure DDoS Protection Plans
+
+### Content Changes
+
+- Clarified the public IP selection and **Add metric** steps for DDoS metrics.
+- Updated the screenshot note and fixed grammar throughout the module.
+- Updated the Getting Started section to use a **Temporary Access Pass**.
+
+### Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-22
+
+### Testing Scope
+
+Successfully completed end-to-end testing of the module and validated all lab guide steps. Content updates were applied to improve clarity and usability.
+
+## Module 5: Network Management and Monitoring Revisited: Flow Logs and Traffic Analytics
+
+### Content Changes
+
+- Updated the Virtual Network Flow Log and Traffic Analytics steps for the new **Create a flow log** wizard.
+- Updated Application Gateway and Azure Firewall navigation, and the **Network security** path for firewall policies.
+- Corrected the Task 1 title, fixed the web server address placeholder, fixed rendering issues, and updated screenshots.
+- Updated the Getting Started section to use a **Temporary Access Pass**.
+
+### Validations
+
+Validations are good. The previously failing Traffic Analytics validation has been resolved by updating the custom policy.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-22
+
+### Testing Scope
+
+Successfully completed end-to-end testing of the module and validated all lab guide steps. The validation failure reported in the previous release has been resolved.
+
+</details>
+
+----
+
+<details>
   <summary>2026-04-24</summary>
 
 ## Release Date: 2026-04-24

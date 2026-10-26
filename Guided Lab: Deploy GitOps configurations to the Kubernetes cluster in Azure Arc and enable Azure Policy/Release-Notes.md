@@ -18,6 +18,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 <details>
   
+  <summary>2026-10-24</summary>
+
+## Release Date: 2026-10-24
+
+### Summary of Changes 
+
+- This update replaces the GitHub fork step with a learner-created repository, moves Azure Policy enforcement from the retired Flux v1 policy to the Flux v2 policy, adds a workaround for onboarding Container Insights, and adds a custom Azure Policy to the lab.
+
+### Infrastructure Changes
+
+- **Lab VM**: The lab VM now provides the **arc-k8s-demo** sample files at **C:\LabFiles\arc-k8s-demo** and has **Git for Windows** installed, so learners can push the files to their own GitHub repository.
+- **Custom Azure Policy**: Added a custom Azure Policy to the lab that allows only the resource types used in the lab, the **Standard_E4s_v3** VM size from the lab image, and the **Premium** disk tier.
+
+### Content Changes
+
+- **Major updates**: 
+
+    - **GitHub repository setup**: The source repository is private and can no longer be forked, so learners now create their own public **arc-k8s-demo** repository and push the provided sample files to the **master** branch by using Git. All references to the forked repository have been updated throughout the lab.
+    - **Azure Policy for GitOps**: Replaced the retired Flux v1 policy **Configure Kubernetes clusters with specified GitOps configuration using no secrets** with **Configure Kubernetes clusters with Flux v2 configuration using public Git repository**, and updated the policy parameters, remediation steps, and Flux v1 terminology to match.
+    - **Container Insights onboarding**: Added an alternative path to enable monitoring from **Monitor > Insights > Containers** when the cluster's **Insights** page doesn't load.
+    - **Azure portal changes**: Added notes to refresh the browser when portal options such as **Enable extension** and **Assign policy** don't appear.
+    - **Sign-in**: Updated the sign-in steps to use a **Temporary Access Pass**.
+    - **Updated UI Screenshots**: Replaced screenshots across the lab to match the revised steps and the latest Azure portal and GitHub interfaces.
+
+### Screenshot Update
+
+- Completed end-to-end lab testing with all validations passing successfully. The lab guide was subsequently updated to enhance clarity and usability.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-10-24
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation, including GitHub repository setup, GitOps deployment, Azure Policy assignment and remediation, and Container Insights onboarding. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes.
+  
+</details>
+
+----
+
+<details>
+  
   <summary>2026-04-13</summary>
 
 ## Release Date: 2026-04-13
