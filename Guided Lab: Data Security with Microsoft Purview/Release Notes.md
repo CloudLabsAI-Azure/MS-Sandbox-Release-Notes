@@ -17,6 +17,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-10-22</summary>
+
+## Release Date: 2026-10-22
+
+### Summary of Changes
+Completed E2E testing of all 4 Data Security with Microsoft Purview master docs, updated the lab guides and added validations.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+
+**Data Security with Microsoft Purview - Protect Sensitive Data**
+1. Completed E2E lab testing, and all validations succeeded.
+2. Updated the lab guide to match the latest Microsoft Purview portal UI, including updated steps and screenshots.
+
+**Data Security with Microsoft Purview - Configure Data Loss Prevention**
+1. Completed E2E lab testing, and all validations succeeded.
+2. Updated the lab guide to match the latest Microsoft Purview and Microsoft Defender portal UI, including updated steps and screenshots.
+3. Added validations, tested them, and all validations succeeded.
+
+**Data Security with Microsoft Purview - Conduct Configure Safe breach simulation**
+1. Completed E2E lab testing, and all validations succeeded.
+2. Updated the lab guide with a troubleshooting note for the test email step.
+
+**Data Security with Microsoft Purview - Implement Insider Risk Management**
+1. Completed E2E lab testing, and all validations succeeded.
+2. Updated the lab guide to match the latest Microsoft Purview portal UI, including updated steps and screenshots.
+3. Added validations, tested them, and all validations succeeded.
+
+## Validations
+Validations are good.
+
+### Testing Notes
+- **Testing Date**: 2026-10-22
+
+### Testing Scope
+End-to-end testing of all 4 master docs and their validations completed successfully.
+
+---
+</details>
+
+</details>
+<details>
   <summary>2026-03-05</summary>
   
 ## Release Date: 2026-03-05
