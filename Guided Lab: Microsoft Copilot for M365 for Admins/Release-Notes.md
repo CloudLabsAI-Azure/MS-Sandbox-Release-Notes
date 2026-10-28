@@ -15,6 +15,31 @@ This Page contains detailed notes about the latest updates and modifications mad
 Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+<summary>2026-10-28</summary>
+
+## Release Date: 2026-10-28
+
+### Summary of Changes
+Reviewed and updated the lab guide to align with the latest portal experience.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+1. Updated naming and refreshed the introduction and overview content.
+2. Updated exercise steps to match the current portal experience.
+3. Added missing steps and helpful notes to improve clarity and flow.
+4. Refreshed screenshots to match the updated instructions.
+
+### Testing Notes
+- **Testing Date**: 2026-10-28
+
+### Testing Scope
+End-to-end testing of the lab was performed in a live lab environment, following each exercise step by step as a learner would. Every step was verified against the current portal experience, and any outdated instructions, changed UI labels or missing steps were corrected in the lab guide. Screenshots were recaptured where the interface had changed, and notes were added for pop-ups, prompts and expected wait times. The lab guide content, images and page flow were reviewed for accuracy and consistency before the changes were submitted for review.
+
+---
+</details>
 
 <details>
   <summary>2026-04-27</summary>
