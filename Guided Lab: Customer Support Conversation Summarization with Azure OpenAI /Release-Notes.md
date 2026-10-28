@@ -17,6 +17,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-27</summary>
+  
+## Release Date: 2026-10-27
+
+### Summary of Changes
+
+Performed end-to-end lab testing and updated the lab guides for the latest Azure portal and Microsoft Foundry changes.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added a new **Task 1 - Create a storage account** to **Lab 01**. The Language service creation wizard's **New storage account** option creates a general-purpose v1 storage account, which Azure no longer supports. The deployment failed with a `Conflict` error on `deployStorage` (`AccountKindNotSupported`). Learners now create the `openaistorage<DeploymentID>` storage account (Standard, LRS) first.
+
+- Updated **Task 2 of Lab 01** to select **Existing storage account** and choose `openaistorage<DeploymentID>`, instead of creating a new storage account. Removed the **Storage account type** field and renumbered the callouts.
+
+- Updated the **Language service** (Lab 01) and **Speech service** (Lab 02) steps, as both services are now listed under **Single-capability** in the Microsoft Foundry left pane.
+
+- Updated the **Foundry resource** creation steps in **Lab 01** and **Lab 02**, as the portal menu changed from **Use with Foundry > Foundry** to **All models, agents & tools > Microsoft Foundry**.
+
+- Added steps in **Lab 01** and **Lab 02** to turn off the **New Foundry** toggle and dismiss the feedback pop-up. The new Foundry portal does not include the **Summarize for call center** (Language) or **Video translation** (Speech) playgrounds, so these tasks use the classic Foundry portal.
+
+- Corrected the inject key `DeploymentID` to `Deployment-ID` in the Foundry resource steps of **Lab 01** and **Lab 02**, so the resource group and resource names display correctly.
+
+- Renumbered the summarization task in **Lab 01** to **Task 3**, corrected the Language Studio note, fixed typos, and replaced outdated screenshots.
+
+## Validations
+
+Validations are passing.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-27
+
+### Testing Scope 
+
+Completed end-to-end testing of **Lab 01** with the lab policy applied. Reviewed and updated the **Lab 02** instructions for the latest portal changes.
+
+</details>
+
+----
+
+<details>
   <summary>2026-05-28</summary>
   
 ## Release Date: 2026-05-28
