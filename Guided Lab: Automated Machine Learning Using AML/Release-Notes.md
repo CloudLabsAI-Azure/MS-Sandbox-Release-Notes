@@ -17,6 +17,37 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-10-29</summary>
+
+## Release Date: 2026-10-29
+
+### Summary of Changes
+
+- Made minor content refinements across the lab guide to improve clarity and readability.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+-  Made minor wording and formatting improvements across the lab steps for better understanding.
+
+### Screenshot Updates
+
+N/A
+      
+### Testing Notes
+
+- **Testing Date**: 2026-10-29
+
+### Testing Scope 
+- Performed end-to-end testing of the complete lab flow.
+- Verified that all validations run and pass successfully.
+
+</details>
+
+<details>
   <summary>2026-03-11</summary>
 
 ## Release Date: 2026-03-11
