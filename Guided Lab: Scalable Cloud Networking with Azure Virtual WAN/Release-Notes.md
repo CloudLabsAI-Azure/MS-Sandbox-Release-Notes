@@ -15,7 +15,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+<summary>2026-10-29</summary>
 
+## Release Date: 2026-10-29
+
+### Summary of Changes
+Tested the Scalable Cloud Networking with Azure Virtual WAN lab end to end and updated the lab guide for the latest Azure portal UI.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+1. Updated the lab guide steps to match the latest Azure portal UI.
+2. Fixed incorrect steps in Exercise 4 (private DNS zone resource group and DBVM DNS server).
+3. Added page navigation images to all lab guide pages.
+4. Updated all screenshots and blurred user and deployment IDs.
+
+## Validations
+All existing validations were tested and pass.
+
+### Testing Notes
+- **Testing Date**: 2026-10-29
+
+### Testing Scope
+End-to-end testing of all exercises completed, and the lab works as expected after the guide updates.
+
+---
+</details>
 <details>
   <summary>2026-05-21</summary>
 
