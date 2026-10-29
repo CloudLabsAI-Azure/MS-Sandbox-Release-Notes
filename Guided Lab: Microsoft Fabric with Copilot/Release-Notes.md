@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- Tested the lab end to end and updated the guide and screenshots to match the current Microsoft Fabric UI. Added a manual fix for the Copilot column-split step in Exercise 3, and updated the JumpVM size.
+- Tested the lab end to end and updated all guides, screenshots and the architecture diagram to match the current Microsoft Fabric and Copilot UI. The lab now runs on a provided Fabric F2 capacity instead of the Fabric trial.
 
 ### Infrastructure Changes
 
@@ -30,12 +30,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Content Changes
 
-- Updated instructions across all exercises to match the current Fabric UI labels and flow, and fixed spelling and wording. Removed the Azure subscription prerequisite, because the lab provides the Fabric capacity.
-- Exercise 3 now includes a manual fallback for when Copilot splits the **Item** column only at the first space. Exercise 4 now tells learners to run all three create-dw script files in order, which prevents a broken SQL script.
+- Removed the Fabric trial sign-up. Exercise 1 now creates the workspace on the lab's F2 capacity, which comes with a Power BI Pro licence and enables Copilot. Getting Started now covers Fabric sign-in with a Temporary Access Pass, and the Azure subscription prerequisite and the lab-extension section are removed.
+- Exercise 2 now has learners create their own Direct Lake semantic model, because lakehouses no longer get a default one. It also adds the Copy job connection sign-in and the current lakehouse navigation.
+- Exercise 3 adds a manual fallback for when Copilot splits the **Item** column only at the first space. The overview now makes clear the dataflow is not published.
+- Exercise 4 runs the three create-dw script files in order, which prevents a broken SQL script. It also corrects the warehouse, data preview, relationship and Copilot report steps to match the current UI.
+- Aligned UI labels and callout numbers with the current Fabric UI, and fixed spelling and wording across all exercises.
 
 ### Screenshot Update
 
-- Recaptured outdated screenshots to match the latest UI and the current lakehouse naming, with deployment-specific values blurred.
+- Refreshed outdated screenshots and the lab architecture diagram to match the latest UI and lakehouse naming, with deployment-specific values blurred.
 
 ### Testing Notes
 
@@ -43,7 +46,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Testing Scope
 
-- Conducted end-to-end testing of all four exercises in a live lab environment. All validations succeeded, and every guide fix was confirmed against the live UI.
+- Conducted end-to-end testing of all four exercises in a live lab environment. All validations succeeded, and every guide change was confirmed against the live UI.
 
 </details>
 
