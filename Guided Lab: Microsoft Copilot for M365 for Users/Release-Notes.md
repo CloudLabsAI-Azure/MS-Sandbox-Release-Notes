@@ -15,7 +15,33 @@ This Page contains detailed notes about the latest updates and modifications mad
 Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+<summary>2026-10-27</summary>
 
+## Release Date: 2026-10-27
+
+### Summary of Changes
+Tested the Microsoft Copilot for M365 for Users lab end to end, updated the lab guide for the latest Copilot UI changes, and added page navigation images.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+1. Updated the Work IQ step in Exercise 2.1 to match the new Copilot Chat UI.
+2. Updated Exercise 3.1 (Word) to use the new **Add content** option.
+3. Added a note in Exercise 3.2 (Outlook) for setting Draft instructions from **Settings > Copilot** when **Customize drafts** is not visible.
+4. Updated the Sensitivity label step in Exercise 5.2 and removed the duplicate step.
+5. Added page navigation images (user01–user15) to all lab guide pages.
+6. Updated screenshots wherever the UI has changed.
+
+### Testing Notes
+- **Testing Date**: 2026-10-27
+
+### Testing Scope
+End-to-end testing of all exercises completed, and the lab works as expected after the guide updates.
+
+---
+</details>
 <details>
   <summary>2026-05-27</summary>
 
