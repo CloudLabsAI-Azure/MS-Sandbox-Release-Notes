@@ -15,6 +15,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-11-02</summary>
+  
+## Release Date: 2026-11-02
+
+### Summary of Changes
+
+Performed end-to-end lab testing and validations, with content updates.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+N/A
+
+## Validations
+
+Validations are good.
+
+## Testing Notes
+
+- **Testing Date**: 2026-11-02
+  
+## Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions, ensuring they are accurate, up to date, and aligned with the latest changes. 
+
+---
+</details>
+
 <details>
   <summary>2026-05-01</summary>
   
