@@ -16,36 +16,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
-  <summary>2026-11-02</summary>
-
-## Release Date: 2026-11-02
-
-### Summary of Changes
-
-Fixed the lab deployment so the sample data and setup pipelines load, and tested the lab end to end, adding clarity fixes and wording corrections across the guide.
-
-### Infrastructure Changes
-
-* Fixed the deployment script so the lab's sample datasets and setup pipelines load. The setup tool reads the credentials file by line position. The app ID and secret were on the wrong lines, so the tool fell back to a username and password sign-in, which the lab tenant rejects. The script now writes the credentials file in the order the tool expects.
-
-### Content Changes
-
-* **Exercise 1 → Task 1:** Added notes to wait until **SQLPool01** shows **Online** after resuming it, and to rerun the notebook cell if it is still **Resuming**. Without this, the SQL Analytics connector cell fails with a "database is paused" error.
-* Clarified the task introductions and wording, and fixed note formatting, grammar, and punctuation across the Getting Started, Exercise 1 and Exercise 2 pages.
-
-### Testing Notes
-
-- **Testing Date:** 2026-11-02
-- All validations succeeded.
-
-### Testing Scope
-
-* Ran Exercise 1 end to end in a live lab: notebook, data load into SQLPool01, pipeline and data flow edits, publish, and trigger. The **Exercise 1 → Task 1** validation succeeded, and the **Exercise 2 - Enrich Data** pipeline run succeeded.
-* Reviewed the wording of the Getting Started and Exercise 2 pages; all exercises were tested end to end.
-
-</details>
-
-<details>
   <summary>2026-10-29</summary>
 
 ## Release Date: 2026-10-29
