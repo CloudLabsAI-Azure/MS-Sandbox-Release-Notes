@@ -16,6 +16,29 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-02</summary>
+
+## Release Date: 2026-11-02
+
+### Summary of Changes
+
+- Completed Lab 1 testing and updated the corresponding lab guide.
+- Started testing Lab 2 and resolved errors in several notebook cells. The notebook was executed successfully after the updates.
+- Updated the affected notebook cells in the repository in coordination with Tejeesh.
+- Completed testing and lab guide updates.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-02
+- **Issues Resolved**: Resolved the repository cloning issue with Riya and fixed notebook cell errors found during testing.
+
+### Testing Scope
+
+- Performed end to end lab testing and all validations were successful, and verified the corrected notebook by executing it successfully.
+
+</details>
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
