@@ -17,6 +17,27 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-02</summary>
+
+## Release Date: 2026-11-02
+
+### Summary of Changes
+
+- Completed end to end testing and lab guide updates with all validations succeeded.
+- Updated custom scripts containing file links of private github repo, uploaded files to prod and changed the links to prod storage account links.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-02
+- **Issues Resolved**: Resolved the repository cloning issue by replacing links with prod storage account.
+
+### Testing Scope
+
+- Performed end to end lab testing and all validations were successful, and verified the notebook by executing it successfully.
+
+</details>
+
+<details>
   <summary>2026-06-01</summary>
 
 ## Release Date: 2026-06-01
