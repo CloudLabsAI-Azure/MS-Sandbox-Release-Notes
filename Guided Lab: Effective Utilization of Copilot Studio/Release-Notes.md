@@ -17,6 +17,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-05</summary>
+
+## Release Date: 2026-11-05
+
+### Summary of Changes 
+
+- Updated the lab guide so that learners create all agents in their own **ODL_User <DID>'s Environment** instead of the shared **CloudLabs Sandbox (default)** environment. This fixes validations that failed even when tasks were completed correctly.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Added a step to switch from **CloudLabs Sandbox (default)** to **ODL_User <DID>'s Environment** using the environment switcher in Copilot Studio.
+
+- Added an environment check before each agent is created, so learners confirm they are in **ODL_User <DID>'s Environment**.
+
+- Reworded a few instructions, including the **Business unit** step and the note about the **Edit** icon, to match the current UI and make them clearer.
+
+- All other instructions have been checked against the existing lab flow.
+
+### Screenshot Update
+
+- Added a new screenshot for the environment switch step. All other screenshots were checked against the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-05
+
+### Testing Scope 
+
+- Tested the lab end to end in **ODL_User <DID>'s Environment**. All lab guide steps and validations passed.
+
+-------------
+
+</details>
+
+<details>
   <summary>2026-05-12</summary>
 
 ## Release Date: 2026-05-12

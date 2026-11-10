@@ -14,6 +14,50 @@ This page includes:
 `Email Support: cloudlabs-support@spektrasystems.com`  
 
 # Release Notes
+
+<details>
+  <summary>2026-11-10</summary>
+
+## Release Date: 2026-11-10
+
+### Summary of Changes 
+
+- Updated the lab guide for improved clarity and accuracy, enhancing the overall user experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Added a note asking learners to close the **What's New in Notebooks** pop-up if it appears while installing the required libraries.
+
+- Updated the model replacement step in **dataextraction.py** to reference the full embedding model name (`text-embedding-ada-002` → `text-embedding-3-small`) along with `gpt-35-turbo-instruct` → `gpt-5.4-mini`.
+
+- Updated the validation unique id for the module 1.
+
+- All other instructions have been checked against the existing lab flow.
+
+### Validations
+
+- Validations are good.
+
+### Screenshot Update
+
+- All screenshots have been checked against the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-10
+
+### Testing Scope 
+
+- Tested the lab end to end. All lab guide steps and validations passed.
+
+</details>
+
+----
+
 <details>
   <summary>2026-07-07</summary>
 
