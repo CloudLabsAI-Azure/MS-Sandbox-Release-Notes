@@ -17,6 +17,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-10</summary>
+
+## Release Date: 2026-11-10
+
+### Summary of Changes
+
+Completed end-to-end testing of the Build Creative App using Azure AI and Prompty lab. Fixed the environment setup so the lab code reaches the VM, fixed the Exercise 3 backend error, and updated the lab guide with the testing feedback.
+
+### Infrastructure Changes
+
+- Fixed the setup script (`psscript.ps1`). It now creates `C:\LabFiles`, downloads the logon script there, and registers the logon task correctly.
+
+- Fixed the logon task script (`logon.ps1`). The lab code is now downloaded as a zip file and extracted to `C:\creative-writer`, because the code repository is private and the previous `git clone` step failed.
+
+- The logon task now installs the API packages, checks that the application dependencies load, and reports the deployment status as Succeeded or Failed.
+
+### Code Changes
+
+- Pinned the OpenTelemetry and Azure Monitor package versions in `src/api/requirements.txt`. This fixes the "Promptflow may not installed correctly" error when the backend starts in Exercise 3.
+
+- Removed committed cache files and an old evaluation results file from the code package.
+
+### Content Changes
+
+- Updated step instructions to match the current Visual Studio Code and terminal flow.
+
+- Updated code snippets in the lab guide to match the current application code.
+
+- Corrected typos and wording across the lab guide.
+
+## Validations
+
+The deployment status check reports correctly after setup.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-09
+
+### Testing Scope
+
+Completed end-to-end testing on a fresh deployment.
+
+</details>
+
+---
+
+<details>
   <summary>2026-06-02</summary>
 
 ## Release Date: 2026-06-02
