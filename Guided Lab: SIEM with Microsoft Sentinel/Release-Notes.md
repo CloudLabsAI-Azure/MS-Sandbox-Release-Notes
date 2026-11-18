@@ -17,6 +17,135 @@ This page includes:
 # Release Notes
 
 <details>
+  <summary>2026-11-16</summary>
+
+## Release Date: 2026-11-16
+
+### Summary of Changes
+
+Performed end-to-end testing across all modules. No major content or UI changes were required. Minor updates were made to correct typos and fix lab guide rendering issues, including step numbering and formatting.
+
+## Lab 1: Setup Sentinel Environment
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Corrected minor typos and rendering issues where required.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-10
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed content and corrected minor typos and rendering issues.
+
+## Lab 2: Deploy Microsoft Defender for Cloud
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Corrected minor typos and rendering issues where required.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-12
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed content and corrected minor typos and rendering issues.
+
+## Lab 3: Configure Log Ingestion
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Fixed step numbering and screenshot alignment issues in the lab guide.
+- Corrected minor typos where required.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-12
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed content and corrected minor typos and rendering issues.
+
+## Lab 4: Configure Sentinel Workbooks and Detection Rules
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Fixed step numbering issues in the lab guide.
+- Corrected minor typos where required.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-13
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed content and corrected minor typos and rendering issues.
+
+## Lab 5: Analyze Logs with KQL
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Corrected minor typos and rendering issues where required.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-13
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed content and corrected minor typos and rendering issues.
+
+## Lab 6: Using Sentinel Training Lab
+
+### Content Changes
+
+- Module tested and verified successfully.
+- Corrected minor typos and rendering issues where required.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-13
+
+### Testing Scope
+
+Successfully completed end-to-end testing and validation. Reviewed content and corrected minor typos and rendering issues.
+
+</details>
+
+----
+
+<details>
   <summary>2026-06-03</summary>
 
 ## Release Date: 2026-06-03
