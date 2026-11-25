@@ -68,14 +68,14 @@ Completed end-to-end testing and updated the lab guide, code samples, and valida
 N/A
 
 ## Content Changes
-1. Corrected the model name, resource names, and placeholders in the lab guide.
-2. Updated portal navigation steps and expected outputs to match the current portal and SDK behaviour.
-3. Fixed the observability code sample so OpenTelemetry spans are printed as expected.
-4. Added notes for first-run prompts, trace availability, and cost data delay.
-5. Removed internal authoring notes from the lab guide.
+1. Updated the lab guide to align with the current lab environment.
+2. Updated instructions and expected outputs where required.
+3. Fixed the code samples where required.
+4. Added notes for better clarity.
+5. Removed outdated and unnecessary content.
 
 ## Validations
-Validations are good. Fixed one validation check that was failing incorrectly, and retested it.
+Validations are good. Fixed the Exercise 4 validation, where the `lab_target.py loads ../.env` check was failing even when the task was completed correctly. Updated the check to match the lab guide code, and retested it successfully.
 
 ### Testing Notes
 - **Testing Date**: 2026-11-25
