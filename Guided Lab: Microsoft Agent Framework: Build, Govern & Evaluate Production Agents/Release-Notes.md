@@ -56,3 +56,32 @@ New lab onboarded. Built and end-to-end tested the full Microsoft Agent Framewor
 Performed live, hands-on end-to-end testing of every module on a real lab VM, including real Azure AI Foundry resource deployment, real package installs, and real error reproduction/fixes (BOM in `.env`, SDK version-skew ImportError, RBAC 403, ASSERT/litellm build failure, ACS policy schema mismatches). Confirmed CloudLabs Custom Validation works for Exercise_01; Exercises 2-6 use the same validated pattern and are pending a live Validate pass per exercise.
 
 </details>
+<details>
+<summary>2026-11-25</summary>
+
+## Release Date: 2026-11-25
+
+### Summary of Changes
+Completed end-to-end testing and updated the lab guide, code samples, and validation to match the current lab environment.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+1. Updated the lab guide to align with the current lab environment.
+2. Updated instructions and expected outputs where required.
+3. Fixed the code samples where required.
+4. Added notes for better clarity.
+5. Removed outdated and unnecessary content.
+
+## Validations
+Validations are good. Fixed the Exercise 4 validation, where the `lab_target.py loads ../.env` check was failing even when the task was completed correctly. Updated the check to match the lab guide code, and retested it successfully.
+
+### Testing Notes
+- **Testing Date**: 2026-11-25
+
+### Testing Scope
+End-to-end testing of all exercises was completed and validations were verified.
+
+---
+</details>
