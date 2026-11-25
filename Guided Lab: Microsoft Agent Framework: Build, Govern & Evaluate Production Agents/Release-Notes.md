@@ -56,3 +56,32 @@ New lab onboarded. Built and end-to-end tested the full Microsoft Agent Framewor
 Performed live, hands-on end-to-end testing of every module on a real lab VM, including real Azure AI Foundry resource deployment, real package installs, and real error reproduction/fixes (BOM in `.env`, SDK version-skew ImportError, RBAC 403, ASSERT/litellm build failure, ACS policy schema mismatches). Confirmed CloudLabs Custom Validation works for Exercise_01; Exercises 2-6 use the same validated pattern and are pending a live Validate pass per exercise.
 
 </details>
+<details>
+<summary>2026-11-25</summary>
+
+## Release Date: 2026-11-25
+
+### Summary of Changes
+Completed end-to-end testing and updated the lab guide, code samples, and validation to match the current lab environment.
+
+### Infrastructure Changes
+N/A
+
+## Content Changes
+1. Corrected the model name, resource names, and placeholders in the lab guide.
+2. Updated portal navigation steps and expected outputs to match the current portal and SDK behaviour.
+3. Fixed the observability code sample so OpenTelemetry spans are printed as expected.
+4. Added notes for first-run prompts, trace availability, and cost data delay.
+5. Removed internal authoring notes from the lab guide.
+
+## Validations
+Validations are good. Fixed one validation check that was failing incorrectly, and retested it.
+
+### Testing Notes
+- **Testing Date**: 2026-11-25
+
+### Testing Scope
+End-to-end testing of all exercises was completed and validations were verified.
+
+---
+</details>
